@@ -1,0 +1,472 @@
+text,O/P
+text,{'SPEC': ['text']}
+He holds a Bachelor of Science in Computer Science.,"{'SPEC': ['holds', 'Computer Science'], 'DEGREE': ['Bachelor Science']}"
+She earned a Master of Arts in Psychology.,{'DEGREE': ['Master Arts Psychology']}
+A PhD in Biochemistry is required for this role.,"{'DEGREE': ['PhD'], 'SPEC': ['Biochemistry']}"
+The position requires a Bachelor of Science in Nursing.,"{'DEGREE': ['Bachelor'], 'SPEC': ['Science', 'Nursing']}"
+An MBA in Business Administration is preferred.,"{'DEGREE': ['MBA'], 'SPEC': ['Business Administration']}"
+Candidates with a Master of Science in Data Science are encouraged to apply.,"{'DEGREE': ['Master Science'], 'SPEC': ['Data Science', 'encouraged apply']}"
+He has a Juris Doctor from an accredited law school.,"{'DEGREE': ['Juris Doctor'], 'SPEC': ['law']}"
+She completed her Bachelor of Arts in History.,"{'DEGREE': ['Bachelor Arts'], 'SPEC': ['History']}"
+A Master of Public Health is highly desired.,"{'DEGREE': ['Master'], 'SPEC': ['Public Health']}"
+The job requires a Doctor of Medicine degree.,{'DEGREE': ['Doctor Medicine']}
+Applicants should have a Bachelor of Fine Arts in Graphic Design.,"{'DEGREE': ['Bachelor Fine Arts'], 'SPEC': ['Graphic Design']}"
+A Master of Science in Civil Engineering is essential.,"{'DEGREE': ['Master Science'], 'SPEC': ['Civil Engineering']}"
+He possesses a Doctor of Philosophy in Physics.,"{'SPEC': ['possesses', 'Philosophy', 'Physics'], 'DEGREE': ['Doctor']}"
+She has a Bachelor of Architecture.,{'DEGREE': ['Bachelor Architecture']}
+A Master of Science in Environmental Science is preferred.,"{'DEGREE': ['Master Science'], 'SPEC': ['Environmental Science']}"
+Candidates with a Bachelor of Business Administration will be considered.,{'DEGREE': ['Bachelor Business Administration']}
+He holds a Master of Arts in Sociology.,"{'DEGREE': ['Master Arts'], 'SPEC': ['Sociology']}"
+A Bachelor of Science in Mechanical Engineering is required.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Mechanical Engineering']}"
+Applicants must have a Doctor of Pharmacy.,"{'DEGREE': ['Doctor'], 'SPEC': ['Pharmacy']}"
+A Master of Fine Arts in Creative Writing is desired.,"{'DEGREE': ['Master Fine Arts'], 'SPEC': ['Creative Writing']}"
+He earned a Bachelor of Science in Agricultural Sciences.,{'DEGREE': ['Bachelor Science']}
+She completed a Master of Science in Biotechnology.,"{'DEGREE': ['Master'], 'SPEC': ['Biotechnology']}"
+A Doctor of Philosophy in Economics is preferred.,"{'DEGREE': ['Doctor'], 'SPEC': ['Philosophy', 'Economics']}"
+He has a Bachelor of Science in Electrical Engineering.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Electrical Engineering']}"
+She earned a Master of Science in Biomedical Engineering.,"{'DEGREE': ['Master Science'], 'SPEC': ['Biomedical Engineering']}"
+Candidates should have a Bachelor of Science in Mathematics.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Mathematics']}"
+A Master of Arts in International Relations is required.,{'SPEC': ['International Relations']}
+He holds a Doctor of Philosophy in Computer Engineering.,"{'SPEC': ['holds', 'Computer Engineering'], 'DEGREE': ['Doctor Philosophy']}"
+She completed her Bachelor of Science in Finance.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Finance']}"
+Applicants should have a Master of Science in Statistics.,"{'DEGREE': ['Master Science'], 'SPEC': ['Statistics']}"
+A Juris Doctor degree is essential.,{'DEGREE': ['Juris Doctor']}
+He possesses a Bachelor of Science in Information Technology.,"{'SPEC': ['possesses', 'Information Technology'], 'DEGREE': ['Bachelor Science']}"
+She earned a Master of Science in Marketing.,{'DEGREE': ['Master Science Marketing']}
+A Bachelor of Science in Chemistry is required.,"{'DEGREE': ['Bachelor'], 'SPEC': ['Science', 'Chemistry']}"
+Candidates with a Doctor of Philosophy in Psychology are encouraged to apply.,"{'DEGREE': ['Doctor'], 'SPEC': ['Philosophy', 'Psychology', 'encouraged apply']}"
+He holds a Master of Science in Structural Engineering.,"{'DEGREE': ['Master Science'], 'SPEC': ['Structural Engineering']}"
+She completed a Bachelor of Arts in Political Science.,{'SPEC': ['Political Science']}
+A Doctor of Philosophy in Molecular Biology is highly desired.,"{'DEGREE': ['Doctor'], 'SPEC': ['Philosophy', 'Molecular Biology']}"
+He has a Bachelor of Science in Software Engineering.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Software Engineering']}"
+She earned a Master of Science in Education.,{'DEGREE': ['Master Science Education']}
+A Bachelor of Science in Environmental Engineering is essential.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Environmental Engineering']}"
+Candidates should have a Master of Arts in Anthropology.,{'SPEC': ['Anthropology']}
+He holds a Bachelor of Science in Aerospace Engineering.,"{'SPEC': ['holds', 'Aerospace Engineering'], 'DEGREE': ['Bachelor Science']}"
+She completed her Master of Science in Industrial Engineering.,"{'DEGREE': ['Master'], 'SPEC': ['Science', 'Industrial Engineering']}"
+A Doctor of Medicine degree is required.,{'DEGREE': ['Doctor Medicine']}
+Applicants must have a Bachelor of Science in Biology.,{'DEGREE': ['Bachelor Science Biology']}
+He possesses a Master of Business Administration.,{'DEGREE': ['Master Business Administration']}
+She earned a Bachelor of Arts in Communications.,{'DEGREE': ['Bachelor Arts Communications']}
+A Master of Science in Nutrition is desired.,"{'DEGREE': ['Master Science'], 'SPEC': ['Nutrition']}"
+He holds a Doctor of Philosophy in Chemical Engineering.,"{'SPEC': ['holds', 'Philosophy', 'Chemical Engineering'], 'DEGREE': ['Doctor']}"
+She completed a Bachelor of Science in Physics.,{'DEGREE': ['Bachelor Science Physics']}
+A Master of Science in Ecology is preferred.,"{'DEGREE': ['Master'], 'SPEC': ['Science', 'Ecology']}"
+Candidates with a Bachelor of Science in Microbiology are encouraged to apply.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Microbiology', 'encouraged apply']}"
+He holds a Master of Science in Urban Planning.,"{'DEGREE': ['Master Science'], 'SPEC': ['Urban Planning']}"
+She earned a Bachelor of Arts in English Literature.,"{'DEGREE': ['Bachelor Arts'], 'SPEC': ['English Literature']}"
+A Doctor of Philosophy in Electrical and Computer Engineering is essential.,"{'DEGREE': ['Doctor Philosophy'], 'SPEC': ['Electrical Computer Engineering']}"
+He has a Bachelor of Science in Environmental Studies.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Environmental Studies']}"
+She completed a Master of Arts in Museum Studies.,{'SPEC': ['Museum Studies']}
+A Bachelor of Science in Genetics is required.,"{'DEGREE': ['Bachelor'], 'SPEC': ['Science', 'Genetics']}"
+Applicants should have a Master of Science in Biomedical Sciences.,"{'DEGREE': ['Master Science'], 'SPEC': ['Biomedical Sciences']}"
+A Doctor of Pharmacy degree is highly desired.,"{'DEGREE': ['Doctor'], 'SPEC': ['Pharmacy']}"
+He possesses a Bachelor of Science in Health Sciences.,"{'SPEC': ['possesses'], 'DEGREE': ['Bachelor']}"
+She earned a Master of Science in Clinical Psychology.,"{'DEGREE': ['Master Science'], 'SPEC': ['Clinical Psychology']}"
+A Bachelor of Science in Computer Information Systems is preferred.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Computer Information Systems']}"
+Candidates with a Doctor of Philosophy in Mechanical Engineering are encouraged to apply.,"{'DEGREE': ['Doctor Philosophy'], 'SPEC': ['Mechanical Engineering', 'encouraged apply']}"
+He holds a Master of Science in Cognitive Science.,"{'DEGREE': ['Master Science'], 'SPEC': ['Cognitive Science']}"
+She completed her Bachelor of Science in Economics.,"{'DEGREE': ['Bachelor'], 'SPEC': ['Science', 'Economics']}"
+A Doctor of Philosophy in Neuroscience is essential.,"{'DEGREE': ['Doctor'], 'SPEC': ['Philosophy', 'Neuroscience']}"
+He has a Bachelor of Science in Plant Sciences.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Plant Sciences']}"
+She earned a Master of Science in Applied Mathematics.,"{'DEGREE': ['Master Science'], 'SPEC': ['Applied Mathematics']}"
+A Bachelor of Science in Kinesiology is required.,"{'DEGREE': ['Bachelor'], 'SPEC': ['Science', 'Kinesiology']}"
+Applicants must have a Master of Science in Marine Biology.,"{'DEGREE': ['Master'], 'SPEC': ['Science', 'Marine Biology']}"
+He possesses a Doctor of Philosophy in Sociology.,"{'SPEC': ['possesses', 'Philosophy', 'Sociology'], 'DEGREE': ['Doctor']}"
+She earned a Bachelor of Science in Nursing Administration.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Nursing Administration']}"
+A Master of Science in Industrial-Organizational Psychology is desired.,"{'DEGREE': ['Master Science'], 'SPEC': ['Industrial', 'Organizational Psychology']}"
+He holds a Bachelor of Science in Information Systems.,"{'SPEC': ['holds', 'Information Systems'], 'DEGREE': ['Bachelor Science']}"
+She completed a Master of Science in Pharmacology.,"{'DEGREE': ['Master'], 'SPEC': ['Science', 'Pharmacology']}"
+A Doctor of Philosophy in Biophysics is highly desired.,"{'DEGREE': ['Doctor'], 'SPEC': ['Philosophy']}"
+He has a Bachelor of Science in Environmental Health.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Environmental Health']}"
+She earned a Master of Science in Immunology.,"{'DEGREE': ['Master Science'], 'SPEC': ['Immunology']}"
+A Bachelor of Science in Public Health is essential.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Public Health']}"
+Candidates with a Master of Science in Cybersecurity are encouraged to apply.,"{'DEGREE': ['Master Science'], 'SPEC': ['Cybersecurity', 'encouraged apply']}"
+He holds a Bachelor of Science in Environmental Policy.,"{'SPEC': ['holds', 'Environmental Policy'], 'DEGREE': ['Bachelor Science']}"
+She completed her Master of Science in Molecular Genetics.,"{'DEGREE': ['Master Science'], 'SPEC': ['Molecular Genetics']}"
+Applicants should have a Bachelor of Science in Food Science.,{'DEGREE': ['Bachelor Science Food Science']}
+A Master of Science in Marine Ecology is preferred.,"{'DEGREE': ['Master'], 'SPEC': ['Science', 'Marine', 'Ecology']}"
+He possesses a Bachelor of Science in Conservation Biology.,"{'SPEC': ['possesses', 'Conservation Biology'], 'DEGREE': ['Bachelor Science']}"
+She earned a Master of Science in Bioinformatics.,"{'DEGREE': ['Master Science'], 'SPEC': ['Bioinformatics']}"
+A Doctor of Philosophy in Social Work is highly desired.,"{'DEGREE': ['Doctor Philosophy'], 'SPEC': ['Social Work']}"
+He holds a Bachelor of Science in Physics with a minor in Computer Science.,"{'SPEC': ['holds', 'Physics', 'Computer Science'], 'DEGREE': ['Bachelor Science', 'minor']}"
+She completed a Master of Science in Agronomy.,{'DEGREE': ['Master Science Agronomy']}
+A Bachelor of Science in Earth Sciences is required.,{'DEGREE': ['Bachelor Science']}
+Candidates should have a Master of Science in Horticulture.,"{'DEGREE': ['Master Science'], 'SPEC': ['Horticulture']}"
+He has a Doctor of Philosophy in Environmental Chemistry.,"{'DEGREE': ['Doctor Philosophy'], 'SPEC': ['Environmental Chemistry']}"
+She earned a Bachelor of Science in Medical Technology.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Medical Technology']}"
+Minimum requirements:- 5+ years of software engineering experience,{'DEGREE': ['Minimum']}
+NIL,{}
+BS,{}
+Strong technical background with a degree in CS,{'SPEC': ['CS']}
+Minimum 3 years of experience in a relevant role within the production environment.,{'DEGREE': ['Minimum']}
+Bachelor's degree required.,{'DEGREE': ['Bachelor']}
+Ph.D. in applied math,{}
+Bachelorâ€™s degree and at least 5 years of Oncology experience OR associate degree and 7 years of Oncology experience.,"{'DEGREE': ['Bachelor', 'associate'], 'SPEC': ['least']}"
+Bachelor's degree in Statistics,"{'DEGREE': ['Bachelor'], 'SPEC': ['Statistics']}"
+CA Inter ,"{'DEGREE': ['CA', 'Inter']}"
+BS or BA degree in Medical Technology,"{'DEGREE': ['BS', 'BA'], 'SPEC': ['Medical Technology']}"
+MD,{}
+1st Class Masterâ€™s Degree M.Eng,"{'SPEC': ['st'], 'DEGREE': ['Master']}"
+Kriger Research Group International Diploma in Clinical Research & Regulatory Affairs,"{'SPEC': ['Kriger Research', 'Clinical Research', 'Regulatory Affairs'], 'DEGREE': ['Diploma']}"
+Bharathiar University Masters in Computer Applications (MCA),{'DEGREE': ['Masters Computer Applications MCA']}
+EIC,{}
+MBA,{}
+MBA,{}
+5+ annÃ©es d'expÃ©rience avÃ©rÃ©e dans l'industrie; diplÃ´me de bachelier en TI ou domaines connexes.,"{'DEGREE': ['ann', 'es', 'exp', 'domaines connexes']}"
+"The job description states that the candidate should have ""Strong product management experience with at least four years in payments, banking, accounting, reconciliation, or other financial systems."" Therefore, the experience needed is at least four years.","{'DEGREE': ['job'], 'SPEC': ['least four', 'accounting reconciliation', 'financial systems Therefore']}"
+"BS in computer science, engineering, or equivalent fields","{'DEGREE': ['BS'], 'SPEC': ['computer science engineering']}"
+4+ years of engineering management experience5+ years of backend software development experienceExperience with open source projectsStrong written and verbal English communication skills,{'SPEC': ['open source']}
+"Bachelor's or Master's degree in Computer Science, Engineering, or a related field.","{'DEGREE': ['Bachelor', 'Master'], 'SPEC': ['Computer Science', 'Engineering']}"
+"PhD in Computer Science, AI,ML or equivalent practical experience building impactful AI products.","{'DEGREE': ['PhD'], 'SPEC': ['Computer Science']}"
+"Degree in molecular biology, tissue or cellular biology, immunology or closely related field.","{'SPEC': ['molecular biology', 'tissue', 'cellular biology', 'immunology']}"
+"BS Computer Science, Bioinformatics, or related field. MS preferred.","{'DEGREE': ['BS', 'MS'], 'SPEC': ['Computer Science', 'Bioinformatics']}"
+"B.S. or B.A. Biology, Chemistry, BioChemistry or related field","{'DEGREE': ['B B'], 'SPEC': ['Biology', 'Chemistry', 'BioChemistry']}"
+"Bachelor’s degree in Computer Science, Computer Engineering, Bioinformatics or engineering related area.","{'DEGREE': ['Bachelor'], 'SPEC': ['Computer Science', 'Computer Engineering', 'Bioinformatics', 'engineering']}"
+Masters plus 3 years of experience or PhD plus one year of experience,"{'DEGREE': ['Masters plus', 'PhD'], 'SPEC': ['plus', 'year experience']}"
+"BS, MS from a top university. CS, CES, EE as a major is highly desired.","{'DEGREE': ['BS', 'MS'], 'SPEC': ['CS', 'CES', 'EE']}"
+"Strong technical background with a degree in CS, CES, EE or related field from a premier university.","{'SPEC': ['CS', 'CES', 'EE']}"
+"Degree in Computer Science, Engineering, or a related field from a top-tier university.","{'SPEC': ['Computer Science', 'Engineering']}"
+"Bachelor's degree or higher in Computer Science, Engineering, Math, Economics, or equivalent work experience.","{'DEGREE': ['Bachelor'], 'SPEC': ['higher Computer Science Engineering', 'Economics']}"
+"Proven experience in operational leadership within a startup or dynamic business setting. Demonstrated expertise in setting and managing OKRs and KPIs. Strong track record in team leadership and talent development. Excellent communication skills, capable of effective cross-cultural and international collaboration. Startup experience is highly valued, showcasing the ability to scale operations and teams rapidly.","{'SPEC': ['operational leadership within startup', 'setting managing OKRs', 'talent development', 'capable effective']}"
+A technical degree or related educational background.,{'DEGREE': ['technical']}
+Minimum 3 years of experience in a relevant role within the production environment.,{'DEGREE': ['Minimum']}
+Professional Services qualification (or demonstrable experience of PSA solutions),"{'DEGREE': ['Professional Services qualification'], 'SPEC': ['demonstrable experience']}"
+"B.Tech, M.Tech in Engineering","{'DEGREE': ['B', 'Tech', 'Tech'], 'SPEC': ['Engineering']}"
+"Bachelor's degree in computer science, information technology, engineering, information systems, cybersecurity, or related area and 3 years’ experience in software engineering or related area at a technology, retail, or data-driven company.","{'DEGREE': ['Bachelor'], 'SPEC': ['computer science', 'information technology engineering', 'information systems', 'cybersecurity', 'software engineering']}"
+"BS, MS, PhD in Computer Science or related majors, or equivalent experience.","{'DEGREE': ['BS', 'MS', 'PhD'], 'SPEC': ['Computer Science']}"
+"6+ years of hands-on software engineering experience, preferably in distributed systems.2+ years of proven engineering management experience.Proven track record of growing individuals and delivering complex projects.",{'SPEC': ['preferably distributed systems']}
+"MS, Ph.D. in quantitative discipline (Math, Statistics, Operations Research, Economics, Engineering, or CS)","{'DEGREE': ['MS'], 'SPEC': ['Statistics', 'Operations Research', 'Economics', 'Engineering', 'CS']}"
+PhD in NLP,{'DEGREE': ['PhD']}
+5+ years of experience,{}
+"BS, MS in CS, CES, EE as a major is highly desired","{'DEGREE': ['BS', 'MS'], 'SPEC': ['CS', 'CES', 'EE']}"
+"Expertise in data warehousing and data modelingExperience with distributed systems and cloud computing platformsAbility to design and implement scalable, fault-tolerant real-time data pipelinesKnowledge of machine learning and statistical modeling techniquesExperience with real-time ingestion technologies (optional)Experience optimizing a MPP or similar data warehouse for performance (optional)Experience with data quality monitoring and anomaly detection (optional)Experience with data visualization and dashboarding tools such as PowerBI, Tableau, or Grafana (optional)","{'SPEC': ['data warehousing data modelingExperience', 'distributed systems', 'cloud computing', 'real time data pipelinesKnowledge', 'machine learning', 'statistical modeling', 'real time ingestion technologies', 'similar data warehouse performance', 'data quality monitoring', 'data visualization', 'dashboarding tools', 'Tableau']}"
+Strong programming skills and CS fundamentals combined with 5+ years of experience building products.,{'SPEC': ['CS fundamentals']}
+Bachelor's degree in a related field or equivalent experience.,{'DEGREE': ['Bachelor']}
+"BS degree in computer science, comparable program, or equivalent.","{'DEGREE': ['BS'], 'SPEC': ['computer science', 'comparable program']}"
+Bachelor’s degree and at least 5 years of Oncology experience OR associate degree and 7 years of Oncology experience.,"{'DEGREE': ['Bachelor', 'associate'], 'SPEC': ['least']}"
+"Ph.D. in applied math, statistics, engineering, or equivalent.","{'DEGREE': ['math'], 'SPEC': ['statistics', 'engineering']}"
+"Bachelor's Degree in Computer Science or related technical field AND 2+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python.","{'DEGREE': ['Bachelor', 'technical engineering'], 'SPEC': ['Computer Science', 'coding languages', 'Python']}"
+"Currently enrolled full time and pursuing a Master’s or PhD degree in Computer Science, Computer Engineering; or equivalent experience required.","{'SPEC': ['full time pursuing', 'Computer Science', 'Computer Engineering'], 'DEGREE': ['Master', 'PhD']}"
+"Bachelor's degree from a four-year college or university in computer science, engineering, business, or other related field or a combination of education and equivalent work experience.","{'DEGREE': ['Bachelor'], 'SPEC': ['four', 'computer science']}"
+Preferably a degree in Computer Science or Software Engineering.,"{'SPEC': ['Preferably degree', 'Computer Science', 'Software Engineering']}"
+"Preference for Masters or Ph.D. in Sciences, Mathematics, or Engineering.","{'SPEC': ['Preference', 'Sciences Mathematics Engineering']}"
+"Bachelors,master’s in computer engineering or equivalent.","{'DEGREE': ['master'], 'SPEC': ['computer engineering']}"
+Bachelor's or Masters's Degree in Computer Science or equivalent.,"{'DEGREE': ['Bachelor Masters'], 'SPEC': ['Computer Science']}"
+"Bachelor's or Master's degree in Computer Science, IT, Engineering or equivalent.","{'DEGREE': ['Bachelor', 'Master'], 'SPEC': ['Computer Science', 'Engineering']}"
+"Bachelor's degree in Technology, Engineering or related field, or equivalent experience.","{'DEGREE': ['Bachelor'], 'SPEC': ['Technology Engineering']}"
+"Advanced proficiency with Python and libraries commonly used for data analysis, e.g., Pandas, NumPy, SciPy, and Matplotlib. Strong understanding of data modeling and statistical analysis. Knowledge of optimization and predictive modeling techniques and experience applying them to real-world problems. Skilled at translating a general question or problem into a clearly defined algorithmic solution. Ability to communicate clearly with both technical and non-technical audiences. Ability to work independently and manage multiple projects simultaneously.","{'SPEC': ['Python libraries', 'NumPy SciPy Matplotlib', 'data modeling', 'statistical analysis', 'optimization predictive modeling', 'applying real world problems', 'translating', 'problem clearly defined', 'algorithmic solution', 'technical audiences'], 'DEGREE': ['communicate']}"
+"10+ years of experience with Go and/or C++ is a must. Extensive technology and design experience involving SDN, Networking Orchestration, Openstack and Virtual network architecture. Proven experience in application development agile methodology related to n,w orchestration, network virtualization. Familiar with major cloud providers Azure, AWS, GCP, and others. Experience with distributed systems and test driven development. Demonstrable depth of knowledge in a domain such as networking, messaging, data sharing and distributed computing. Preferred proficiency in Golang. Networking Knowledge(SDWAN, SDN, WiFi). Familiar with DevOps tools like Ansible, Gitlab, and Terraform. Familiar with Databases MYSQL or others.","{'DEGREE': ['technology design', 'SDN', 'w', 'WiFi'], 'SPEC': ['Networking', 'Orchestration Openstack', 'Virtual', 'network architecture', 'application development', 'agile methodology', 'orchestration', 'network virtualization', 'Azure', 'distributed systems', 'domain networking messaging', 'data sharing', 'distributed computing', 'Networking', 'DevOps tools like', 'Terraform', 'Databases']}"
+"Bachelor's or College Degree in Computer Science, Information Technology or equivalent.","{'DEGREE': ['Bachelor College'], 'SPEC': ['Computer Science', 'Information Technology']}"
+"Bachelor's degree in Statistics, Mathematics, Economics, Engineering, Information Management, Social Sciences.","{'DEGREE': ['Bachelor'], 'SPEC': ['Statistics', 'Mathematics', 'Economics', 'Engineering', 'Information Management', 'Social Sciences']}"
+"Bachelor's degree in Computer Science, Engineering, or a related field.","{'DEGREE': ['Bachelor'], 'SPEC': ['Computer Science', 'Engineering']}"
+Hands-on experience with scripting languages like Python or Shell is required.  for formal education qualification.,"{'SPEC': ['Hands experience', 'scripting languages like'], 'DEGREE': ['education qualification']}"
+"CA Inter , ICWA Inter , Post Graduate , MBA Finance (Candidate with B.Com in Graduation)","{'DEGREE': ['CA', 'Inter ICWA', 'Inter', 'Graduate MBA', 'Candidate B'], 'SPEC': ['Finance']}"
+15 yrs of full time education,"{'DEGREE': ['yrs'], 'SPEC': ['full time education']}"
+Master's degree or University Degree in Accounting.,"{'DEGREE': ['Master'], 'SPEC': ['Accounting']}"
+"2+ years of experience in a DevOps,SRE,Platform Engineer role or related field.",{'SPEC': ['SRE Platform']}
+"CA, MBA (Finance)","{'DEGREE': ['CA'], 'SPEC': ['MBA', 'Finance']}"
+MBA or CA qualified with minimum 2 years of underwriting experience.,"{'DEGREE': ['MBA', 'CA'], 'SPEC': ['qualified minimum']}"
+Experience as Data Engineer in PySpark with Azure Dataricks. Strong SQL Experience. Proficient in a source code control system such as GIT. Data warehousing architecture knowledge.,"{'SPEC': ['Data Engineer', 'PySpark Azure', 'Dataricks', 'Data warehousing', 'architecture knowledge']}"
+"2+ years of experience in a DevOps, SRE, Platform Engineer role or related field.",{'SPEC': ['SRE Platform']}
+"Associates Degree or Certificate in a relevant field, such as Business Studies or Economics, or equivalent training and experience.","{'DEGREE': ['Associates Degree', 'Certificate'], 'SPEC': ['Economics']}"
+High School Diploma or GED.,"{'DEGREE': ['High School Diploma'], 'SPEC': ['GED']}"
+High School Diploma (or equivalent) preferred.,{'DEGREE': ['High School Diploma']}
+Bachelor’s degree,{'DEGREE': ['Bachelor']}
+Bachelor's Degree or equivalent experience; MBA is a plus.,"{'DEGREE': ['Bachelor', 'MBA'], 'SPEC': ['plus']}"
+"Bachelor's Degree in business, economics, related field, or equivalent experience required.","{'DEGREE': ['Bachelor'], 'SPEC': ['business economics']}"
+Bachelor's degree.,{'DEGREE': ['Bachelor']}
+"BS/BA in a biological science, biomedical engineering, similar field of study, or comparable industry experience.","{'DEGREE': ['BS', 'BA'], 'SPEC': ['biological science', 'biomedical engineering', 'comparable industry experience']}"
+Bachelor degree in relevant field is preferred.,{'DEGREE': ['Bachelor']}
+"BS/BA degree (or equivalent) in Medical Technology, Biological Sciences, or related field. Current California CLS license or CGMBS license (Clinical Genetics Molecular Biology Scientist).","{'DEGREE': ['BS', 'BA', 'license', 'license'], 'SPEC': ['equivalent Medical Technology', 'Biological Sciences', 'Clinical Genetics', 'Molecular Biology']}"
+Bachelor's degree or equivalent.,{'DEGREE': ['Bachelor']}
+Bachelor’s degree.,{'DEGREE': ['Bachelor']}
+"BA/BS degree in life sciences, related field, or equivalent.",{'DEGREE': ['BA']}
+Bachelor's degree (preferred),{'DEGREE': ['Bachelor']}
+BS/BA in a biological science or equivalent.,"{'DEGREE': ['BS', 'BA'], 'SPEC': ['biological science']}"
+"Degree in molecular biology, biochemistry, cellular biology or closely related field. Master of Science with a minimum of 3+ years of industry experience or equivalent.","{'SPEC': ['molecular biology', 'biochemistry', 'cellular biology'], 'DEGREE': ['Master Science', 'minimum']}"
+"Bachelor’s degree in Accounting, Finance, or equivalent.","{'DEGREE': ['Bachelor'], 'SPEC': ['Accounting', 'Finance']}"
+"Bachelor’s Degree in business, economics, related field, or equivalent required.","{'DEGREE': ['Bachelor'], 'SPEC': ['business economics']}"
+"Minimum of High School Diploma or equivalent required. RN, BS, BA degree preferred. National Phlebotomy Certification may be required depending on the state of practice.","{'DEGREE': ['Minimum', 'High', 'BA', 'Certification', 'may']}"
+Phlebotomy Certificate (if required by State),{'SPEC': ['Phlebotomy Certificate']}
+"Master's degree in a related field (e.g., Statistics, Data Science, Computer Science).","{'DEGREE': ['Master'], 'SPEC': ['Statistics', 'Data Science', 'Computer Science']}"
+High School Diploma or GED,"{'DEGREE': ['High School Diploma'], 'SPEC': ['GED']}"
+"Ph.D. in molecular biology, immunology, biochemistry or closely related field with 8+ years of industry experience.","{'SPEC': ['molecular biology', 'immunology', 'biochemistry']}"
+"BA (business, marketing), MBA optional. Background in medical or biological sciences (clinical diagnostics preferred).","{'DEGREE': ['BA'], 'SPEC': ['business marketing MBA', 'optional Background', 'medical biological sciences', 'clinical diagnostics']}"
+"PhD degree in Molecular Biology, Biochemistry, or related field with 5+ years industry experience in developing NGS based assays from concept to commercialization.","{'DEGREE': ['PhD'], 'SPEC': ['Molecular Biology', 'Biochemistry', 'concept commercialization']}"
+Bachelor's degree or equivalent experience.,{'DEGREE': ['Bachelor']}
+Bachelor's Degree or equivalent required.,{'DEGREE': ['Bachelor']}
+"BA in Business, Marketing or related field is required; MBA preferred. Background in medical or biological sciences; clinical diagnostics preferred.","{'DEGREE': ['BA', 'MBA'], 'SPEC': ['Business Marketing', 'clinical diagnostics']}"
+High School Diploma or GED. One-year certificate from college or a technical school is preferred.,"{'DEGREE': ['High School Diploma', 'certificate'], 'SPEC': ['GED One']}"
+"MD, DO and/or PhD in genetics or related field required. ABMGG board-certified in Clinical Cytogenetics and/or Molecular Genetics, ABP board-certified in Molecular Genetic Pathology, or equivalent doctoral-level board required. Current California laboratory director license as a Clinical Genetic Molecular Biologist or Clinical Cytogeneticist required. Current Certificate of Qualification in Genetic Testing from the NYS CLEP required.","{'DEGREE': ['MD', 'PhD', 'director license', 'Biologist', 'Certificate', 'NYS'], 'SPEC': ['genetics', 'certified Clinical Cytogenetics', 'Molecular Genetics', 'Clinical', 'Clinical', 'Qualification', 'Genetic Testing']}"
+"BS/BA degree in Medical Technology, Biological Sciences, or a related field and Current MT,MLS,CLS certification required (certification from ASCP, AMT, or AAB preferred)","{'DEGREE': ['BS', 'BA'], 'SPEC': ['Medical Technology', 'Biological Sciences']}"
+Two year degree and/or 2-5 years of related experience; undergraduate degree preferred.,{}
+"Bachelor's degree or equivalent required; an advanced degree (MBA,MPH) is preferred.","{'DEGREE': ['Bachelor', 'MBA']}"
+Bachelor's Degree in a related field or equivalent.,{'DEGREE': ['Bachelor']}
+"Bachelor of Science, Nursing or related healthcare field preferred.","{'DEGREE': ['Bachelor'], 'SPEC': ['Science', 'Nursing']}"
+Bachelor's Degree in related field or equivalent required.,{'DEGREE': ['Bachelor']}
+"Bachelor's Degree (BA, BS) with nursing or transplant coordinator certification. BSN required.","{'DEGREE': ['Bachelor', 'BA', 'BS'], 'SPEC': ['nursing']}"
+Degree in technical field or equivalent work experience and applicable certifications.,"{'DEGREE': ['technical'], 'SPEC': ['applicable certifications']}"
+"BS or BA degree in Medical Technology, Biological Sciences, or a related field and Current MT, MLS, CLS certification required.","{'DEGREE': ['BS', 'BA'], 'SPEC': ['Medical Technology', 'Biological Sciences']}"
+"Bachelor of Engineering, Master of Computer Application in Information Technology or Computer","{'DEGREE': ['Bachelor Engineering', 'Master'], 'SPEC': ['Computer Application', 'Information Technology', 'Computer']}"
+Bachelor's degree or equivalent in a scientific discipline.,{'DEGREE': ['Bachelor']}
+"PhD, Master, Bachelor in a quantitative discipline (e.g., Statistics, Operations Research, Economics, Computer Science, Mathematics, Physics, Industrial Engineering) or equivalent practical experience.","{'DEGREE': ['PhD', 'Master', 'Bachelor'], 'SPEC': ['Operations Research Economics', 'Computer Science', 'Mathematics', 'Physics', 'Industrial Engineering']}"
+"Bachelor’s, Master’s degree in Engineering, Computer Science (or equivalent experience)","{'DEGREE': ['Bachelor', 'Master'], 'SPEC': ['Engineering Computer Science']}"
+Minimum 1 year of project experience required,"{'DEGREE': ['Minimum'], 'SPEC': ['year project experience']}"
+"PhD, Master, Bachelor in quantitative discipline (e.g., Statistics, Operations Research, Economics, Computer Science, Mathematics, Physics, Industrial Engineering) or equivalent practical experience.","{'DEGREE': ['PhD', 'Master', 'Bachelor'], 'SPEC': ['Operations Research Economics', 'Computer Science', 'Mathematics', 'Physics', 'Industrial Engineering']}"
+"PhD, Master, Bachelors quantitative discipline (e.g., Statistics, Operations Research, Economics, Computer Science, Mathematics, Physics, Industrial Engineering) or equivalent practical experience.","{'DEGREE': ['PhD', 'Master'], 'SPEC': ['Operations Research Economics', 'Computer Science', 'Mathematics', 'Physics', 'Industrial Engineering']}"
+"Bachelor's degree in Computer Science, Engineering, Statistics, or a related field; a Master's degree is a plus.","{'DEGREE': ['Bachelor', 'Master'], 'SPEC': ['Computer Science', 'Engineering', 'Statistics', 'plus']}"
+"A graduate degree in Data Science, Statistics, or related field.","{'DEGREE': ['graduate degree'], 'SPEC': ['Data Science', 'Statistics']}"
+"Bachelor's degree in engineering, computer science, analytical field (Statistics, Mathematics, etc.) or related discipline and three (3) years of relevant work experience OR Master's or Ph.D. in engineering, computer science, analytical field (Statistics, Mathematics, etc.) or related discipline and one (1) year of relevant work experience.","{'DEGREE': ['Bachelor', 'Master Ph engineering', 'year'], 'SPEC': ['engineering computer science', 'analytical field', 'Statistics', 'Mathematics', 'computer science', 'analytical field', 'Statistics', 'Mathematics']}"
+bachelor's degree in IT or related fields,{'DEGREE': ['bachelor']}
+Bachelor's degree in IT or related fields.,{'DEGREE': ['Bachelor']}
+Bachelor's degree in IT or related field.,{'DEGREE': ['Bachelor']}
+Currently enrolled in a Master's or PhD program in Computer Science or related STEM field OR currently enrolled in a Bachelor's program in Computer Science or related STEM field and have at least 1 year of experience in conducting research.,"{'DEGREE': ['Master', 'PhD program', 'Bachelor program'], 'SPEC': ['Computer Science', 'Computer Science', 'conducting research']}"
+"An M.S. or Ph.D. in a scientiﬁc discipline related to oceanography, chemistry, physics, or other environmental science.","{'SPEC': ['physics', 'environmental science']}"
+Bachelor's degree and at least 5 years of Oncology experience OR associate degree and 7 years of Oncology experience.,"{'DEGREE': ['Bachelor', 'associate'], 'SPEC': ['least']}"
+"Degree in Communications Engineering, Geology, or related work experience.","{'SPEC': ['Communications Engineering', 'Geology']}"
+"Bachelor's degree in relevant field (e.g., Technical Communication, Computer Science, Information Technology).","{'DEGREE': ['Bachelor', 'Technical Communication'], 'SPEC': ['Computer Science', 'Information Technology']}"
+Bachelor’s degree preferred. Previous grant writing experience required.,{'DEGREE': ['Bachelor']}
+Bachelor’s degree preferred.,{'DEGREE': ['Bachelor']}
+"PhD, Master, Bachelor's degree in a quantitative discipline (e.g., Statistics, Operations Research, Economics, Computer Science, Mathematics, Physics, Industrial Engineering) or equivalent practical experience.","{'DEGREE': ['PhD', 'Master', 'Bachelor'], 'SPEC': ['Operations Research Economics', 'Computer Science', 'Mathematics', 'Physics', 'Industrial Engineering']}"
+"Bachelor's degree in Mathematics, Physics, Information Technology ﬁeld, Operations Research or related discipline with ﬁve years of experience.","{'DEGREE': ['Bachelor'], 'SPEC': ['Mathematics', 'Physics', 'Information Technology', 'eld Operations Research']}"
+5+ années d'expérience avérée dans l'industrie; diplôme de bachelier en TI ou domaines connexes.,"{'DEGREE': ['ann', 'es', 'exp', 'domaines connexes']}"
+"Bachelor’s degree in Computer Science, Engineering or a related field","{'DEGREE': ['Bachelor'], 'SPEC': ['Computer Science', 'Engineering']}"
+ABCD@#,{}
+ABCD industry and graduate from XYZ college,"{'SPEC': ['industry'], 'DEGREE': ['XYZ']}"
+"Master's degree in quantitative field (Statistics, Data Science, Applied Math, Computer Science, Physics) or equivalent experience.","{'DEGREE': ['Master'], 'SPEC': ['Statistics', 'Data Science', 'Applied', 'Computer Science']}"
+Bachelor Degree in Engineering or equivalent practical experience.,"{'DEGREE': ['Bachelor'], 'SPEC': ['Engineering']}"
+Bachelor's degree or higher in Information Technology or Software Engineering,"{'DEGREE': ['Bachelor'], 'SPEC': ['higher Information Technology', 'Software Engineering']}"
+BS degree in computer science or equivalent experience.,"{'DEGREE': ['BS'], 'SPEC': ['computer science']}"
+Bachelor's degree preferred.,{'DEGREE': ['Bachelor']}
+"PhD, Master, Bachelor's quantitative discipline (e.g., Statistics, Operations Research, Economics, Computer Science, Mathematics, Physics, Industrial Engineering) or equivalent practical experience.","{'DEGREE': ['PhD', 'Master', 'Bachelor'], 'SPEC': ['Operations Research Economics', 'Computer Science', 'Mathematics', 'Physics', 'Industrial Engineering']}"
+"Bachelors or higher degrees in Computer Science, Statistics, Mathematics, Physics, Engineering, or related disciplines.","{'DEGREE': ['higher degrees Computer Science'], 'SPEC': ['Statistics', 'Mathematics', 'Physics', 'Engineering']}"
+undefined,{}
+"Bachelor's Degree in Computer Science, Engineering or equivalent experience.","{'DEGREE': ['Bachelor'], 'SPEC': ['Computer Science Engineering']}"
+12+ years of experience in product web UI application development.,"{'SPEC': ['web UI', 'application development']}"
+"Master's or PhD in Computer Science, Mathematics, Statistics or a related field.","{'DEGREE': ['Master', 'PhD'], 'SPEC': ['Computer Science', 'Mathematics', 'Statistics']}"
+Bachelor's degree or higher in Computer Science or a related field.,"{'DEGREE': ['Bachelor'], 'SPEC': ['higher Computer Science']}"
+"Pursuing a Computer Science, EE, Applied Math, Statistics, Data Science, Physics degree.","{'SPEC': ['Pursuing', 'Computer Science', 'EE', 'Applied', 'Statistics', 'Data Science', 'Physics']}"
+Bachelor's degree in Computer Science or related field.,"{'DEGREE': ['Bachelor'], 'SPEC': ['Computer Science']}"
+Bachelor's degree in Computer Science or a related engineering field.,"{'DEGREE': ['Bachelor'], 'SPEC': ['Computer Science']}"
+"BS, MS in computer science, engineering.","{'DEGREE': ['BS', 'MS'], 'SPEC': ['computer science engineering']}"
+ (No specific education qualification mentioned),{'SPEC': ['specific education']}
+"BS,MS Degree in Computer Science or related majors.","{'DEGREE': ['BS', 'MS'], 'SPEC': ['Computer Science']}"
+"Bachelor's degree in Computer Science, similar technical field of study, or equivalent practical experience.","{'DEGREE': ['Bachelor', 'technical'], 'SPEC': ['Computer Science']}"
+"Bachelor's degree in Computer Science, Information Systems or equivalent combination of education and experience.","{'DEGREE': ['Bachelor'], 'SPEC': ['Computer Science', 'Information Systems', 'education experience']}"
+Minimum 10 years of overall experience in which 5 years of experience working in developing Microservices in AWS Cloud. Experienced GoLang and Java developer. Expert with MongoDB and good understanding of Database Design. Proficient with Git. Expertise in software and infrastructure design in cloud. Experience in a fast-moving startup environment. Understanding of containers with services like Docker. Develop and deploy microservices with Kubernetes. Having good understanding of front end. Experience with AWS Cloud deployment. Experience in Agile development environment.,"{'DEGREE': ['Minimum'], 'SPEC': ['MongoDB good understanding', 'Database Design', 'software infrastructure design', 'fast moving startup environment Understanding', 'like Docker', 'Develop deploy microservices', 'good understanding', 'front', 'AWS', 'Agile development environment']}"
+Bachelor's or Master's degree in computer science or equivalent technical discipline.,"{'DEGREE': ['Bachelor', 'Master'], 'SPEC': ['computer science']}"
+Bachelor's degree in computer science or a related field,"{'DEGREE': ['Bachelor'], 'SPEC': ['computer science']}"
+BS/MS in Computer Science or related technical field or equivalent practical experience.,"{'DEGREE': ['BS', 'MS'], 'SPEC': ['Computer Science']}"
+Bachelors or master’s degree in computer science or related,"{'DEGREE': ['master'], 'SPEC': ['computer science']}"
+"B.A.,B.S. in computer science, software engineering or related ﬁeld.","{'DEGREE': ['B B'], 'SPEC': ['computer science', 'software engineering']}"
+"Bachelor's degree in Computer Science, Software Engineering, or related field.","{'DEGREE': ['Bachelor'], 'SPEC': ['Computer Science', 'Software Engineering']}"
+3-5 years of proficient experience working on software products.,{}
+"Coding experience in Go,Python,C++,Java and solid software engineering background. Experience in large-scale machine learning backend; familiar with RPC frameworks and key-value storage systems. Experience in dealing with concurrent systems and architectures. Experience in standard deep learning frameworks, e.g. Pytorch and Tensorflow.","{'SPEC': ['Go Python C', 'solid software engineering background', 'value storage systems'], 'DEGREE': ['large scale machine learning', 'key', 'Pytorch']}"
+BS or MS in computer science or related field.,"{'DEGREE': ['BS', 'MS'], 'SPEC': ['computer science']}"
+The education qualification needed for this job description is:● An applicable Bachelor’s degree with 10+ years of relevant experience OR a Master’s degree  with 8 years of relevant experience OR a PhD with 6 years of relevant experience; an additional 4 years of experience maybe considered in lieu of a degree requirement (higher or lower levels accepted based on years of experience),"{'DEGREE': ['Bachelor', 'Master', 'levels'], 'SPEC': ['lower']}"
+"Tertiary qualifications in engineering, mathematics, actuarial studies, statistics, physics, or a related discipline.","{'SPEC': ['Tertiary qualifications engineering', 'mathematics', 'actuarial studies', 'statistics', 'physics']}"
+"5+ years of software engineering experience, with experience in developing online systems.",{}
+"BS in Computer Science, Bioinformatics, Information Systems, etc. MS preferred.","{'DEGREE': ['BS'], 'SPEC': ['Computer Science', 'Bioinformatics', 'Information Systems', 'MS']}"
+"BS/BA Degree in Science, Technology Engineering Math (STEM) in Computer Science, Computer Engineering, Information Technology or Physics","{'DEGREE': ['BS', 'BA'], 'SPEC': ['Science Technology Engineering', 'STEM Computer Science', 'Computer Engineering', 'Information Technology', 'Physics']}"
+Bachelor's Degree in Computer Science or equivalent.,"{'DEGREE': ['Bachelor'], 'SPEC': ['Computer Science']}"
+"BA/BS in Computer Science, Applied Math, Physics, Engineering, Statistics, or other technical fields","{'DEGREE': ['BA', 'BS'], 'SPEC': ['Computer Science', 'Applied', 'Physics', 'Engineering', 'Statistics', 'technical fields']}"
+"BS or a graduate degree in Computer Science, Maths, Engineering, or science.","{'DEGREE': ['graduate degree'], 'SPEC': ['Computer Science', 'Maths Engineering science']}"
+Degree in Computer Science or similar field (Master’s degree preferred).,"{'SPEC': ['Computer Science'], 'DEGREE': ['Master']}"
+The education qualification for the job description is a BS degree in Computer Science or equivalent.,"{'DEGREE': ['education qualification'], 'SPEC': ['Computer Science']}"
+"MS,BS in Computer Science or equivalent or equivalent military experience","{'DEGREE': ['MS', 'BS'], 'SPEC': ['Computer Science']}"
+Bachelor’s degree or equivalent,{'DEGREE': ['Bachelor']}
+BS or MS degree in Computer Science.,"{'DEGREE': ['BS', 'MS'], 'SPEC': ['Computer Science']}"
+Be a computer science graduate or equivalent with 3 to 8 years of industry experience.,{'SPEC': ['computer science']}
+"Bachelor's degree in the engineering field, MBA or Master's in engineering preferred","{'DEGREE': ['Bachelor', 'MBA', 'Master engineering'], 'SPEC': ['engineering']}"
+"MS,Ph.D. in quantitative discipline (Math, Statistics, Operations Research, Economics, Engineering, or CS)","{'DEGREE': ['MS'], 'SPEC': ['Statistics', 'Operations Research', 'Economics', 'Engineering', 'CS']}"
+"- Advanced degree (Ph.D. preferred) in Data Science, AI, Machine Learning, or a related field. - 3+ years of experience in developing and deploying AI solutions, particularly in conversational interfaces. - Proficiency in AI, ML methodologies such as NLP, neural networks, reinforcement learning, etc. - Hands-on experience in programming (Python, C++, etc.) for model development and implementation. - Demonstrated success in the full machine learning lifecycle from data preprocessing to deployment. - Proven track record of delivering ML products from concept to production. - Exceptional communication skills for effective cross-team collaboration. - A voracious appetite for AI, ML research and applying innovative techniques. - Entrepreneurial mindset, thriving in the dynamic environment of a startup. - Self-starter, capable of driving high-impact AI innovations independently.","{'SPEC': ['AI ML methodologies', 'NLP neural networks reinforcement learning', 'Python C', 'model development implementation', 'full machine learning lifecycle data preprocessing', 'dynamic environment startup', 'starter capable driving'], 'DEGREE': ['mindset thriving']}"
+"Bachelor's degree or higher in Computer Science, Engineering, or a related field.","{'DEGREE': ['Bachelor'], 'SPEC': ['higher Computer Science', 'Engineering']}"
+Minimum of 2 years of Call Center experience in an inbound and outbound capacity. Minimum of 2 years of sales experience. Background in medical or biological sciences preferred.,{'DEGREE': ['Minimum']}
+"BS,BA or equivalent required; MBA,MPH,MHA preferred.",{'DEGREE': ['BS']}
+High School degree or equivalent required. Two- or Four-year undergraduate degree or certification preferred.,{'DEGREE': ['year undergraduate']}
+Master's degree in Genetic Counseling or equivalent degree.,"{'DEGREE': ['Master'], 'SPEC': ['Genetic Counseling']}"
+"BS Computer Science, Bioinformatics, Information Systems, etc. MS preferred.","{'DEGREE': ['BS'], 'SPEC': ['Computer Science', 'Bioinformatics', 'Information Systems', 'MS']}"
+"Two year degree and/or 3 years minimum customer service experience, undergraduate degree desired.",{'DEGREE': ['minimum customer service']}
+Master's degree or similar practical experience.,"{'DEGREE': ['Master'], 'SPEC': ['similar practical experience']}"
+"High School Diploma or equivalent required; BS, BA degree preferred.","{'DEGREE': ['High School Diploma', 'BA']}"
+"Bachelor's in healthcare, life sciences, pharmacy or related field is required. MBA or Ph.D. is preferred.","{'DEGREE': ['Bachelor', 'MBA'], 'SPEC': ['pharmacy']}"
+Master's Degree in Genetic Counseling or equivalent from an ABGC approved genetic counseling program,"{'DEGREE': ['Master'], 'SPEC': ['Genetic Counseling']}"
+High School degree or equivalent required.,{}
+Bachelor's Degree.,{'DEGREE': ['Bachelor']}
+"BS degree in computer science, comparable program, or equivalent experience","{'DEGREE': ['BS'], 'SPEC': ['computer science', 'comparable program']}"
+"BS, BA degree (or equivalent) in Medical Technology, Biological Sciences, or related field. Current California CLS license or CGMBS license (Clinical Genetics Molecular Biology Scientist).","{'DEGREE': ['BS', 'BA', 'license', 'license'], 'SPEC': ['equivalent Medical Technology', 'Biological Sciences', 'Clinical Genetics', 'Molecular Biology']}"
+"B.A., B.S. in computer science, software engineering or related field.","{'DEGREE': ['B B'], 'SPEC': ['computer science', 'software engineering']}"
+High school diploma or educational equivalent.,"{'DEGREE': ['High school diploma'], 'SPEC': ['educational equivalent']}"
+"BS/BA degree (or equivalent) in Medical Technology, Biological Sciences, or related field.","{'DEGREE': ['BS', 'BA'], 'SPEC': ['equivalent Medical Technology', 'Biological Sciences']}"
+Bachelor's Degree in Healthcare related field of study or equivalent experience.,"{'DEGREE': ['Bachelor'], 'SPEC': ['Healthcare']}"
+Bachelor’s Degree in related field or equivalent required,{'DEGREE': ['Bachelor']}
+High School Diploma (required),{'DEGREE': ['High School Diploma']}
+"High School degree or equivalent required, Undergraduate degree or certification preferred.",{}
+Master of science degree,{'DEGREE': ['Master science']}
+"Bachelor’s in Accounting, Finance, related degree, or equivalent.","{'DEGREE': ['Bachelor'], 'SPEC': ['Accounting', 'Finance']}"
+An engineering-focused undergraduate degree or equivalent proven experience.,{'SPEC': ['engineering focused undergraduate']}
+"High School Diploma (required) BA,BS in biology, allied health, or science related field (strongly preferred). Will consider candidates in pursuit of four-year bachelor’s degree program provided they meet required education requirements and at least 2-3 years professional work experience in biotech, life sciences, or related industry.","{'DEGREE': ['High School Diploma', 'BA', 'BS', 'bachelor', 'professional work'], 'SPEC': ['biology', 'allied health', 'program', 'provided meet']}"
+High School Diploma (or equivalent) required.,{'DEGREE': ['High School Diploma']}
+"Four-year university degree required in Bachelor of Science, Nursing or related healthcare field preferred. Minimum three years’ physician sales experience in diagnostic laboratory business (preferably in a genetics laboratory). Background in medical or biological sciences (clinical diagnostics preferred).","{'DEGREE': ['Bachelor', 'Minimum'], 'SPEC': ['Science', 'Nursing', 'laboratory business', 'preferably genetics', 'laboratory Background', 'medical biological sciences', 'clinical diagnostics']}"
+At least 3 years of experience in medical billing and Insurance collections.,{'SPEC': ['medical billing']}
+"BSc in Bioinformatics, Computer Science, Engineering, Biochemistry, similar field, or equivalent. MSc preferred.","{'SPEC': ['Bioinformatics', 'Computer Science', 'Engineering', 'Biochemistry']}"
+"Bachelor's degree in Business, Finance, Healthcare, Computer Science, or a related field.","{'DEGREE': ['Bachelor'], 'SPEC': ['Business Finance', 'Healthcare Computer Science']}"
+"BS, BA in a biological science or equivalent required.","{'DEGREE': ['BS', 'BA'], 'SPEC': ['biological science']}"
+BS/BA in a biological science or a related field.,"{'DEGREE': ['BS', 'BA'], 'SPEC': ['biological science']}"
+Bachelor's degree in relevant field of study or B.S. equivalent.,{'DEGREE': ['Bachelor']}
+Bachelor's degree,{'DEGREE': ['Bachelor']}
+"BS,BA degree in Medical Technology, Biological Sciences, or a related field. Current MT,MLS,CLS certification preferable from ASCP, AMT, or AAB.","{'DEGREE': ['BS', 'BA', 'certification'], 'SPEC': ['Medical Technology', 'Biological Sciences', 'preferable ASCP']}"
+Bachelor’s degree required.,{'DEGREE': ['Bachelor']}
+"Bachelor’s degree in Clinical, Informatics, Computer Science, Information Systems, Business Computer Systems, or commensurate experience.","{'DEGREE': ['Bachelor', 'commensurate experience'], 'SPEC': ['Clinical Informatics', 'Computer Science', 'Information Systems', 'Computer Systems']}"
+Associates degree and completion of a certified clinical program in medical laboratory sciences in histopathology or equivalent.,"{'DEGREE': ['Associates degree'], 'SPEC': ['completion certified clinical program', 'medical laboratory', 'sciences histopathology']}"
+"Masters in a Life Science such as Molecular Biology, Genetics, Bioinformatics, Biochemistry or equivalent; PhD preferred.","{'DEGREE': ['Masters'], 'SPEC': ['Science', 'Molecular Biology', 'Genetics', 'Bioinformatics', 'Biochemistry']}"
+Bachelor’s degree or equivalent.,{'DEGREE': ['Bachelor']}
+"BS Computer Science, Bioinformatics, Information Systems, etc. MS preferred. Data Structures, Algorithms Coursework","{'DEGREE': ['BS'], 'SPEC': ['Computer Science', 'Bioinformatics', 'Information Systems', 'MS', 'Algorithms']}"
+BS/BA degree (preferred),"{'DEGREE': ['BS', 'BA']}"
+"Bachelor’s degree required; advanced degree (MS, MBA, PhD) preferred.","{'DEGREE': ['Bachelor', 'MS', 'MBA']}"
+"Bachelor's degree in Accounting, Business, Healthcare related field or equivalent experience.","{'DEGREE': ['Bachelor'], 'SPEC': ['Accounting Business', 'Healthcare']}"
+"BS, BA (or equivalent) in a biological science or similar field of study","{'DEGREE': ['BS', 'BA'], 'SPEC': ['field study']}"
+"A Four-year university degree required in Bachelor of Science, Nursing or related healthcare field preferred. Minimum three years’ physician sales experience in diagnostic laboratory business (preferably in a genetics laboratory). Background in medical or biological sciences (clinical diagnostics preferred). Market knowledge and experience selling to OB,GYN or MFM strongly preferred.","{'DEGREE': ['Bachelor', 'Minimum'], 'SPEC': ['Science', 'Nursing', 'laboratory business', 'preferably genetics', 'laboratory Background', 'medical biological sciences', 'clinical diagnostics', 'experience selling', 'OB GYN', 'MFM strongly']}"
+"Degree in molecular biology, tissue or cellular biology, immunology or closely related field. Bachelor’s degree or higher with a minimum of 6 years of industry experience for Associate Scientist level. M.S with a minimum of 6 years of industry experience; or Ph.D. with a minimum of 3 - 5 years of industry experience for Scientist level.","{'SPEC': ['molecular biology', 'tissue', 'cellular biology', 'immunology', 'minimum'], 'DEGREE': ['Bachelor', 'higher minimum', 'Associate Scientist level', 'minimum']}"
+"BS, BA in a biological science or equivalent.","{'DEGREE': ['BS', 'BA'], 'SPEC': ['biological science']}"
+"The required education qualification for this job is a BA in Business, Marketing or related field. An MBA is preferred.","{'DEGREE': ['job', 'BA'], 'SPEC': ['Business Marketing']}"
+High School Diploma or GED or equivalent.,"{'DEGREE': ['High School Diploma'], 'SPEC': ['GED equivalent']}"
+"Bachelor's degree. Minimum of 5 years of successful sales experience, Women's Health Preferred. Background in medical or biological sciences is preferred. Trained on a recognized Industry Sale Process Program such as SPIN Selling, Challenger, Janek, IMPAX, Wilson Learning etc.","{'DEGREE': ['Bachelor'], 'SPEC': ['Minimum', 'Women Health', 'recognized Industry', 'SPIN Selling']}"
+"BA in Business, Marketing or related field is required; MBA preferred.","{'DEGREE': ['BA', 'MBA'], 'SPEC': ['Business Marketing']}"
+"MD,DO and,or PhD in genetics or related field required.ABMGG board certified- in Clinical Cytogenetics and,or Molecular Genetics, ABP board-certified in Molecular Genetic Pathology, or equivalent doctoral-level board required.Current California laboratory director license as a Clinical Genetic Molecular Biologist or Clinical Cytogeneticist required.Current Certificate of Qualification in Genetic Testing from the NYS CLEP required.5 or more years of experience in a CLIA-certified clinical laboratory setting analyzing, interpreting and reporting clinical genetic,genomic data.Knowledge of CAP, CLIA, and applicable state regulations; including but not limited to California, and New York state regulations.Management experience required.","{'DEGREE': ['MD', 'PhD', 'director license', 'Biologist', 'Certificate'], 'SPEC': ['genetics', 'certified Clinical Cytogenetics', 'Molecular Genetics', 'Clinical', 'Clinical', 'Qualification', 'Genetic Testing', 'NYS CLEP', 'certified clinical', 'laboratory setting', 'analyzing interpreting', 'genomic data Knowledge', 'CAP CLIA applicable state', 'regulations', 'regulations Management']}"
+"B.S. degree in molecular biology, related field, or equivalent.","{'DEGREE': ['B'], 'SPEC': ['molecular biology']}"
+"Master degree in Computer Science, Computer Engineering or related technical field with 2 years of related experience.","{'DEGREE': ['Master'], 'SPEC': ['Computer Science', 'Computer Engineering']}"
+"BS, BA in a biological science or a related field.","{'DEGREE': ['BS', 'BA'], 'SPEC': ['biological science']}"
+"B.S. or M.S. degree in Molecular Biology, Genetics, Biochemistry or related field, or equivalent.","{'DEGREE': ['B'], 'SPEC': ['Molecular Biology', 'Genetics', 'Biochemistry']}"
+"BS, BA (or equivalent) in a biological science or a related field","{'DEGREE': ['BS', 'BA']}"
+BS/BA degree (preferred). High School diploma required.,"{'DEGREE': ['BS', 'BA']}"
+"Minimum of 2 years of phlebotomy experienceBS, BA degree (preferred)High School Diploma (or equivalent) requiredPhlebotomy Certificate (if required by State)","{'DEGREE': ['Minimum', 'BA', 'School Diploma', 'Certificate'], 'SPEC': ['phlebotomy', 'equivalent requiredPhlebotomy']}"
+"BS degree in computer science, comparable program, or equivalent 7+ years of overall software development experience.","{'DEGREE': ['BS'], 'SPEC': ['computer science', 'comparable program']}"
+"High School Diploma (required) BA,BS in biology, allied health, or science related field (strongly preferred).","{'DEGREE': ['High School Diploma', 'BA', 'BS'], 'SPEC': ['biology', 'allied health']}"
+"Technical degree or 4+ years of equivalent experience in supporting large scale Linux,Unix-based systems or networking with 3 or more of those years as a software developer.","{'DEGREE': ['Technical'], 'SPEC': ['networking years']}"
+"Bachelor's Degree in business, economics, related field, or equivalent.","{'DEGREE': ['Bachelor'], 'SPEC': ['business economics']}"
+Bachelor's degree or greater in Computer Science preferred.,"{'DEGREE': ['Bachelor'], 'SPEC': ['greater Computer Science']}"
+"BA,BS degree in relevant technical, scientific, or quantitative discipline or relevant experience.","{'DEGREE': ['BA', 'BS']}"
+"Bachelor's Degree in business, economics, related field, or equivalent required.","{'DEGREE': ['Bachelor'], 'SPEC': ['business economics']}"
+"BS, BA in a biological science or similar field of study","{'DEGREE': ['BS', 'BA'], 'SPEC': ['biological science', 'field study']}"
+Expertise in Java and experience in designing and building distributed systems.,{}
+Master's degree in Genetic Counseling (Board certified) or other advanced degree in a related field.,"{'DEGREE': ['Master'], 'SPEC': ['Genetic Counseling', 'certified advanced']}"
+Bachelor's degree or higher.,"{'DEGREE': ['Bachelor', 'higher']}"
+"Ph.D. in molecular biology, immunology, biochemistry or closely related field with 5+ years of industry experience.","{'SPEC': ['molecular biology', 'immunology', 'biochemistry']}"
+"Five or more years of clinical and,or laboratory experience. Revenue cycle and,or insurance billing experience.",{'SPEC': ['Revenue cycle insurance billing experience']}
+High School degree or equivalent required; Two- or Four-year undergraduate degree or certification preferred;,{'DEGREE': ['year undergraduate']}
+"BS, BA in biomedical engineering, biological sciences or related fields.","{'DEGREE': ['BS', 'BA'], 'SPEC': ['biomedical engineering', 'biological sciences']}"
+Master's degree in Healthcare financials or equivalent degree.,"{'DEGREE': ['Master'], 'SPEC': ['Healthcare financials']}"
+"Doctoral degree (PhD or PharmD) in Biology, Molecular Genetics, Chemistry, Molecular Biology, or other relevant scientific discipline, Medical Degree (MD) or equivalent required.","{'DEGREE': ['Doctoral degree', 'PhD'], 'SPEC': ['Molecular Genetics', 'Chemistry', 'Molecular Biology']}"
+Bachelor's Degree or related experience.,{'DEGREE': ['Bachelor']}
+High School Diploma or GED. 1-2 years of receiving experience in a distribution or manufacturing environment.,"{'DEGREE': ['High School Diploma'], 'SPEC': ['GED years', 'distribution manufacturing environment']}"
+"BS, BA in a biological science, biomedical engineering, similar field of study, or comparable industry experience","{'DEGREE': ['BS', 'BA'], 'SPEC': ['biological science', 'biomedical engineering', 'comparable industry experience']}"
+Bachelor's degree or equivalent required.,{'DEGREE': ['Bachelor']}
+"Bachelor's, or equivalent degree in a scientific discipline.","{'DEGREE': ['Bachelor equivalent'], 'SPEC': ['scientific discipline']}"
+Certified Salesforce Platform Developer I.,{'DEGREE': ['Certified Salesforce Platform Developer']}
+"4-6 years of experience in product management focusing on complex operational, business process related projects or equivalent experience at a hyper growth company.","{'SPEC': ['management focusing complex', 'operational business', 'hyper growth company']}"
+"Bachelor’s Degree in Computer Science, a related field, or comparable work experience.","{'DEGREE': ['Bachelor'], 'SPEC': ['Computer Science', 'comparable work experience']}"
+"BS degree in computer science, comparable program, or equivalent. MS preferred","{'DEGREE': ['BS'], 'SPEC': ['computer science', 'comparable program']}"
+"BS degree in computer science, comparable program, or equivalent. MS preferred.","{'DEGREE': ['BS'], 'SPEC': ['computer science', 'comparable program']}"
+"Bachelor degree in relevant field is preferred.3+ years professional coding experience with current certification including International Classification of Diseases (ICD-10) and Coding Procedure Terminology (CPT) and HCPCS coding.Certified coder designation, certification by AHIMA or AAPC.","{'DEGREE': ['Bachelor'], 'SPEC': ['current certification', 'including', 'Procedure', 'Terminology', 'coder designation', 'AAPC']}"
+High School degree or equivalent required,{}
+"BS, BA degree (or equivalent) in Medical Technology, Biological Sciences, or related field","{'DEGREE': ['BS', 'BA'], 'SPEC': ['equivalent Medical Technology', 'Biological Sciences']}"
+"BS, BA in a biological science or similar field of study.","{'DEGREE': ['BS', 'BA'], 'SPEC': ['biological science', 'field study']}"
+Bachelors Degree in business or healthcare related field of study.,{'SPEC': ['business healthcare']}
+"Two year degree and,or 2-5 years of related experience, undergraduate degree preferred.",{}
+Bachelor's degree in computer science or equivalent.,"{'DEGREE': ['Bachelor'], 'SPEC': ['computer science']}"
+"Minimum Qualification: - A data scientist or AI/machine learning Ph.D.- 3+ years experience developing and deploying enterprise AI products and solutions, with a focus on conversational interfaces.- Expertise in AI and ML methods like natural language processing, neural networks, reinforcement learning, etc.- Hands-on experience with programming languages like Python and C++ to implement models.- Knowledge of the full machine learning development lifecycle including data preprocessing, model training, evaluation, and deployment.- A strong track record of shipping machine learning products from research to production.- Excellent communication skills to collaborate across teams.- Passion for staying on top of AI and ML research and applying new techniques.- Entrepreneurial spirit and excitement for joining an early-stage startup.- Self-motivation to take ownership over delivering high-impact AI innovations.Preferred Qualifications: - Meticulous eye for detail and the ability to methodically execute complex technical projects end-to-end.- Quick learner who can rapidly pick up new technologies as needed to deliver AI and ML solutions.- Keeping up with the latest research and applying cutting-edge techniques to real-world problems.- Self-directed and motivated to dive into ambiguous technical challenges.- Ability to communicate complex topics clearly and concisely with both technical and non-technical colleagues.- Enjoy continuously expanding their skillset and willing to learn entirely new technologies.- Thrive in taking broad business needs and turning them into concrete AI and ML implementations.","{'DEGREE': ['Minimum', 'Qualification', 'end', 'communicate'], 'SPEC': ['data scientist', 'AI ML methods', 'natural language processing', 'neural networks', 'reinforcement learning', 'programming languages like', 'full machine learning development', 'lifecycle including', 'data preprocessing', 'model training', 'collaborate across teams', 'staying', 'new techniques', 'Entrepreneurial spirit excitement', 'motivation take ownership delivering', 'Meticulous eye detail ability', 'methodically execute', 'end', 'Quick learner', 'Keeping latest research', 'techniques', 'world problems', 'technical challenges Ability', 'complex', 'topics', 'technical colleagues Enjoy', 'continuously expanding', 'skillset willing']}"
+"BS, MS in Computer Science, Engineering, or related field preferred","{'DEGREE': ['BS', 'MS'], 'SPEC': ['Computer Science', 'Engineering']}"
+"B.E, B.Tech, M.Tech","{'DEGREE': ['B', 'B', 'Tech', 'Tech']}"
+"B.E, MCA, M.Tech","{'DEGREE': ['MCA', 'Tech']}"
+"BS, MS from a tier-1 college or university with CS, CES, EE as a major is highly desired.","{'DEGREE': ['MS'], 'SPEC': ['CS', 'CES', 'EE']}"
+"BS, MS from a tier-1 college or university with CS, CES, EE as a major","{'DEGREE': ['MS'], 'SPEC': ['CS', 'CES', 'EE']}"
+PhD in NLP or a closely related field,{'DEGREE': ['PhD']}
+"Bachelor’s degree in computer science, Software Engineering, or a related field.","{'DEGREE': ['Bachelor'], 'SPEC': ['computer science', 'Software Engineering']}"
+"Bachelor's degree in Product Design, Industrial Design, HCI, or any related field.","{'DEGREE': ['Bachelor'], 'SPEC': ['Product Design', 'Industrial Design']}"
+"Bachelor's degree in Computer Science, Information Technology, or a related field","{'DEGREE': ['Bachelor'], 'SPEC': ['Computer Science', 'Information Technology']}"
+"Exp: 7+ Years. • Skills: .Net, C#, React.js  • Location: Bangalore/Remote  • Notice Period: Immediate - 30 Days  • CTC : 25 - 50 Lac (Depends on interview performance)","{'SPEC': ['Net C', 'React js', 'interview performance'], 'DEGREE': ['Lac']}"
+"    Roles & Responsibilities   Work with development teams and product managers to ideate software solutions.   Develop and manage well-functioning databases and applications.   Write effective APIs.   Test software to ensure responsiveness and efficiency.   Troubleshoot, debug and upgrade software.   Write technical documentation.   Ensure great hiring.   Create security and data protection settings.   Follow Scrum process, participate in Scrum ceremonies and follow the incremental delivery model. Basic Requirements   • Good Knowledge with databases (e.g., MsSQL, MongoDB), IIS web servers. GormalOne LLP    undefined","{'SPEC': ['Roles Responsibilities Work', 'manage well functioning databases applications', 'software', 'technical documentation', 'security', 'data protection', 'settings', 'Scrum', 'process participate', 'Scrum', 'ceremonies follow', 'incremental delivery', 'Basic', 'databases e', 'web servers GormalOne'], 'DEGREE': ['managers ideate', 'Develop', 'debug upgrade', 'Write', 'Create', 'Follow', 'MongoDB IIS']}"
+"Bachelor's or Master's degree in Computer Science, Mathematics, or a related field","{'DEGREE': ['Bachelor', 'Master'], 'SPEC': ['Computer Science', 'Mathematics']}"
+"Have published at least one original Android appExperience with Android SDKExperience with offline storage, threading, and performance tuning.Familiarity with the use of addition sensors such as gyroscopes and accelerometers.Experience working with remote data via REST and JSONExperience with third-party libraries and APIsWorking knowledge of the general mobile landscape, architectures, trends, andemergingtechnologiesSolid understanding of the full mobile development life cycle.","{'SPEC': ['published least', 'original Android appExperience', 'offline storage', 'threading performance', 'use addition sensors gyroscopes accelerometers', 'working', 'party libraries', 'mobile landscape architectures', 'mobile development'], 'DEGREE': ['SDKExperience', 'remote data', 'via', 'JSONExperience third']}"
+"BS,MS from a tier-1 college or university with CS,CES,EE as a major is highly desired","{'DEGREE': ['MS'], 'SPEC': ['CS', 'CES', 'EE']}"
+"10+ years of experience with relational databases (SQL, MySQL specifically) and 10+ years of experience in Non-relational,NoSQL databases (Cassandra, Scala, etc.)","{'SPEC': ['SQL', 'Non relational NoSQL databases']}"
+"● Bachelor's or Master's degree in computer science or software engineering is preferred ● Prior work experience in doing automation on cloud is highly desired ● Experience with docker containers, kubernetes or equivalent systems is required ","{'DEGREE': ['Bachelor', 'Master'], 'SPEC': ['computer science', 'software engineering', 'automation']}"
+"Bachelor’s Degree (preferably computer science or engineering) with at least 6 to 10 years’ experience in a professional services, client-facing capacity","{'DEGREE': ['Bachelor', 'professional services client facing capacity'], 'SPEC': ['preferably computer science']}"
+"Bachelors related to IT and, or experience, MBA from Tier- 2 university - Preferred",{}
+"5+ years of experience in Product Management in the Enterprise Software, SaaS, PaaS industry. While you do not need to be a developer, a strong technical background is required to be able to understand platform and database configurations so that you are able to convey requirements to engineering.","{'DEGREE': ['Enterprise'], 'SPEC': ['Software SaaS', 'understand platform', 'able convey']}"
+"ME, B. Tech, BE in Computer Science or related discipline.","{'DEGREE': ['B Tech'], 'SPEC': ['Computer Science']}"
+"Bachelor's or higher degree in Computer Science, Software Engineering, or a related field.","{'DEGREE': ['Bachelor higher degree'], 'SPEC': ['Computer Science', 'Software Engineering']}"
+"Bachelor's degree in computer science, other technical field, or equivalent experience.","{'DEGREE': ['Bachelor'], 'SPEC': ['computer science']}"
+"6+ years of experience designing reliable, available and large-scale distributed backend services6+ years of experience building and shipping products to production",{}
+Bachelor`s degree in design or related field or relevant work experience,{'DEGREE': ['Bachelor']}
+"Bachelor`s degree in Computer Science, Engineering, or a related field","{'DEGREE': ['Bachelor'], 'SPEC': ['Computer Science', 'Engineering']}"
+A proven track record of a minimum of 10 years of hands-on experience specifically with PeopleSoft Financials.Possession of a Bachelor's degree in a relevant field,"{'SPEC': ['proven track', 'specifically PeopleSoft Financials Possession'], 'DEGREE': ['Bachelor']}"
+asdfghj,{'SPEC': ['asdfghj']}
+"The job description states that the candidate should have ""3+ years of full-stack development experience in modern web development technologies, Java, J2EE, Spring Boot."" Therefore, the required experience is 3+ years.","{'DEGREE': ['job', 'J'], 'SPEC': ['full stack development', 'modern web development technologies']}"
+5 to 12 years,{}
+"BA,BS,BE degree or higher in Information Technology Computer Science or Engineering","{'DEGREE': ['BA', 'BS'], 'SPEC': ['higher Information Technology', 'Computer Science', 'Engineering']}"
+A BS in Computer Science or equivalent experience; industrial environment experience a plus,"{'DEGREE': ['BS'], 'SPEC': ['Computer Science', 'industrial environment', 'plus']}"
+"Bachelor`s degree or higher in Linguistics with a focus on Computational Linguistics, or in Computer Science with a specialization in NLP and formal coursework in Linguistics","{'DEGREE': ['Bachelor', 'higher Linguistics'], 'SPEC': ['Computer Science', 'NLP formal coursework', 'Linguistics']}"
+Excellent academic background in Computer Science or other related field,{'SPEC': ['Excellent academic background']}
+"PhD in Physics, Mathematics, or Computer Science preferred. Master's degree with significant experience also encouraged.","{'DEGREE': ['PhD', 'Master'], 'SPEC': ['Physics', 'Mathematics', 'Computer Science', 'significant experience also encouraged']}"
+Bachelor`s degree,{'DEGREE': ['Bachelor']}
+"Bachelor`s degree in Computer Science, Engineering, Statistics, or a related field; a Master`s degree is a plus.","{'DEGREE': ['Bachelor', 'Master'], 'SPEC': ['Computer Science', 'Engineering', 'Statistics', 'plus']}"
+Bachelor`s degree in relevant field,{'DEGREE': ['Bachelor']}
+"One of the following is required  M.D. or D.O. Degree from an accredited medical school. Preferred Education o Graduate level courses or Master`s Degree in Healthcare Administration, Medical Management, or Business Administration.","{'SPEC': ['following', 'medical school', 'Healthcare Administration', 'Medical Management', 'Business Administration'], 'DEGREE': ['Master']}"
+Associate degree in Computer Science or related field is required with a bachelor`s preferred,"{'DEGREE': ['Associate', 'bachelor'], 'SPEC': ['Computer Science']}"
+Bachelor`s or Associate Degree in Information Technology,"{'DEGREE': ['Bachelor', 'Associate'], 'SPEC': ['Information Technology']}"
+"Degree in Physics, Math or Computer Science or equivalent required. PhD in Physics, Math or Computer Science, with a focus on quantum information theory or quantum computation preferred.","{'SPEC': ['Physics', 'Computer Science', 'Physics', 'Computer Science', 'quantum computation'], 'DEGREE': ['PhD']}"
+"BA,BS degree or the equivalent in experience","{'DEGREE': ['BA', 'BS']}"
+Bachelor`s or Master`s degree in a related field,"{'DEGREE': ['Bachelor', 'Master']}"
+"BS,MS in Computer Science, Mathematics, Physics, Engineering, or a related field","{'DEGREE': ['BS', 'MS'], 'SPEC': ['Computer Science', 'Mathematics', 'Physics', 'Engineering']}"
+"A Bachelor`s degree in a related field (Computer Science, Statistics, Mathematics, Engineering, etc.). A Master`s or Ph.D. is a plus.","{'DEGREE': ['Bachelor', 'Master'], 'SPEC': ['Computer Science', 'Statistics', 'Mathematics', 'Engineering', 'plus']}"
+"1. Bachelor's degree in Computer Science, Information Systems, or related field.2. Over 15 years of hands-on experience in Oracle E-Business Suite, with a focus on Supply Chain Management modules.3. Proven expertise in Oracle EBS 12.2.9 version, with a deep understanding of its functionalities and configurations.4. Strong analytical and problem-solving skills, with the ability to analyze complex business processes and design effective solutions.5. Excellent communication and interpersonal skills, with the ability to work closely with business stakeholders and project teams.6. Demonstrated leadership experience, with the ability to lead implementation projects and manage cross-functional teams effectively.7. Strong documentation skills, with the ability to create and maintain comprehensive documentation for EBS configurations and customizations.8. Ability to prioritize and manage multiple tasks concurrently in a fast-paced environment, while maintaining attention to detail and quality.9. Experience with Oracle EBS integration and testing processes, with a focus on ensuring quality and adherence to standards.10. Oracle certifications in relevant modules (e.g., Order Management, Inventory) are a plus.","{'DEGREE': ['Bachelor', 'Oracle', 'prioritize', 'Oracle'], 'SPEC': ['Computer Science', 'Information Systems', 'E Business', 'Supply Chain Management', 'modules', 'analytical problem solving', 'ability analyze complex', 'ability work', 'ability', 'ability create maintain', 'customizations Ability', 'maintaining attention', 'integration testing', 'Oracle certifications', 'Inventory plus']}"
+"PhD or Masters in Computer Science, Engineering, Statistics, or related field preferred","{'DEGREE': ['PhD', 'Masters'], 'SPEC': ['Computer Science', 'Engineering', 'Statistics']}"
+BE degree,{}
+BS or MS Degree in Computer Science or Computer Engineering or equivalent degree,"{'DEGREE': ['BS', 'MS'], 'SPEC': ['Computer Science', 'Computer Engineering']}"
+Bachelor`s degree in Computer Science or a related field,"{'DEGREE': ['Bachelor'], 'SPEC': ['Computer Science']}"
+"Bachelor's degree in Business Administration, Sales, Marketing, or related field. ","{'DEGREE': ['Bachelor'], 'SPEC': ['Business Administration', 'Sales Marketing']}"
+"Ph.D. and publications in machine learning, AI, applied mathematics, or related technical fields",{'SPEC': ['applied mathematics']}
+"Bachelor`s or Master`s degree in Electrical Engineering, Power Electronics, or a related field.","{'DEGREE': ['Bachelor', 'Master'], 'SPEC': ['Electrical Engineering', 'Power Electronics']}"
+"Bachelor`s degree in Marketing, Business, or related field; MBA is a plus.","{'DEGREE': ['Bachelor', 'MBA plus'], 'SPEC': ['Marketing']}"
+"MPH or equivalent qualification in Epidemiology or Public Health, Ph.D. in Life Sciences, Cancer Biology, Molecular Biology, Genomics, or a closely related field, with a strong emphasis on oncology.","{'SPEC': ['Epidemiology', 'Public', 'Sciences Cancer Biology', 'Molecular Biology', 'Genomics', 'oncology']}"
+"Bachelor`s or higher degree in Computer Science, Software Engineering, or a related field","{'DEGREE': ['Bachelor higher degree'], 'SPEC': ['Computer Science', 'Software Engineering']}"
+"Bachelor`s degree in Computer Science, Web Development, or a related field (or equivalent practical experience)","{'DEGREE': ['Bachelor'], 'SPEC': ['Computer Science', 'Web Development']}"
+"Bachelor`s or Master`s degree in Computer Science, Engineering, or a related field","{'DEGREE': ['Bachelor', 'Master'], 'SPEC': ['Computer Science', 'Engineering']}"
+"Degree in software engineering, computer science, or software development","{'SPEC': ['software engineering', 'computer science', 'software development']}"
+"Bachelor`s degree in Computer Science, Software Engineering, or a related field (or equivalent practical experience)","{'DEGREE': ['Bachelor'], 'SPEC': ['Computer Science', 'Software Engineering']}"
+"Bachelors, Masters Degree in Computer Science, Information Technology","{'DEGREE': ['Masters'], 'SPEC': ['Computer Science', 'Information Technology']}"
+"A bachelor`s degree in Aerospace Engineering, Mechanical Engineering, or a related field, with a master`s degree preferred","{'DEGREE': ['bachelor', 'master'], 'SPEC': ['Aerospace Engineering', 'Mechanical Engineering']}"
+"Bachelor`s or Master`s degree in Computer Science, Software Engineering, Electrical Engineering, Aerospace Engineering, or related field required; advanced degree preferred.","{'DEGREE': ['Bachelor', 'Master'], 'SPEC': ['Computer Science', 'Software Engineering', 'Electrical Engineering', 'Aerospace Engineering']}"
+"Bachelor`s or Master`s in Computer Science, Software Engineering, Electrical Engineering, Aerospace Engineering, or related. Advanced degree preferred.","{'DEGREE': ['Bachelor Master'], 'SPEC': ['Computer Science', 'Software Engineering', 'Electrical Engineering', 'Aerospace Engineering']}"
+"Bachelor`s or Master`s degree in Business Administration, Engineering, Computer Science, or related field","{'DEGREE': ['Bachelor', 'Master'], 'SPEC': ['Business Administration', 'Engineering', 'Computer Science']}"
+"Bachelor`s degree in Business Administration, Sales, Marketing, or a related field is a plus","{'DEGREE': ['Bachelor'], 'SPEC': ['Business Administration', 'Sales Marketing']}"
+"Graduate or above in CS or other Engineering, Computing streams","{'DEGREE': ['Graduate'], 'SPEC': ['CS', 'Engineering', 'Computing streams']}"
+"Bachelor`s degree in Computer Science, Information Technology, or related field","{'DEGREE': ['Bachelor'], 'SPEC': ['Computer Science', 'Information Technology']}"
+"Bachelor`s or Master`s degree in Computer Science, Engineering, Data Science, or a related field","{'DEGREE': ['Bachelor', 'Master'], 'SPEC': ['Computer Science', 'Engineering', 'Data Science']}"
+Bachelor`s degree or equivalent practical experience,{'DEGREE': ['Bachelor']}
+"Bachelor`s degree in Computer Science, Engineering, or related field","{'DEGREE': ['Bachelor'], 'SPEC': ['Computer Science', 'Engineering']}"
+"Qualifications:A bachelor's degree in Business Administration, Sales, Marketing, or a related field is a plus.Strong communication and interpersonal skills.Ability to travel approximately 50% of the time within the designated territory.Experience working with distributors and project-based customers is a plus.Self-motivated and results-driven with a passion for sales. ","{'DEGREE': ['bachelor', 'customers plus'], 'SPEC': ['Business Administration', 'Sales Marketing', 'Ability travel', 'sales']}"
+"Requirements:Strong data center experience with rack and stack,Minimum of 5 years on-prem large scale data center experience supporting the Data Center equipment and/or infrastructure (Power, Space, Cooling, Equipment)Strong cabling skills, cable management and dressingStrong NW troubleshooting experience, ideally with Supermicro Servers, Infiniband Fabric and Mellanox, Arista HardwareStrong attention to detail, independent and out of box thinkingSolid skills in UNIX (Ubuntu or RedHat) administration and knowledge of commands including logging into the server’s to monitor for disk failures, debug systems, etcBreak fix server expertise including mechanical assembly, disassembly, installing heavy GPU trays, changing system configs and building up prototype ","{'SPEC': ['rack stack', 'supporting', 'equipment infrastructure', 'Power Space Cooling Equipment', 'cable management', 'ideally Supermicro', 'Infiniband', 'Fabric', 'Ubuntu RedHat administration knowledge', 'commands including logging', 'including mechanical assembly', 'disassembly installing heavy', 'trays changing system configs building prototype'], 'DEGREE': ['Center', 'Servers', 'debug systems etcBreak', 'server']}"
+"Ph.D. and M.Tech (Res) in Computer Science and automation M.Tech in Artificial Intelligence M. Tech,Ph.D,M Tech (Research) in Computational and Data Science","{'DEGREE': ['Tech Res'], 'SPEC': ['Computer Science', 'automation', 'Artificial Intelligence', 'Computational Data Science']}"
+"Bachelor`s degree in Business Administration, Sales, Marketing, or related field","{'DEGREE': ['Bachelor'], 'SPEC': ['Business Administration', 'Sales Marketing']}"
+Bachelor`s degree or equivalent experience,{'DEGREE': ['Bachelor']}
+"Bachelor`s degree or equivalent experience in Human Resources, Business Administration, or related field","{'DEGREE': ['Bachelor'], 'SPEC': ['Human Resources Business Administration']}"
+"Bachelor`s degree in Human Resources, Business Administration, or related field","{'DEGREE': ['Bachelor'], 'SPEC': ['Human Resources Business Administration']}"
+"Bachelor`s degree in Human Resources, Business Administration, Psychology, or a related field. Master`s degree preferred.","{'DEGREE': ['Bachelor', 'Master'], 'SPEC': ['Human Resources Business Administration', 'Psychology']}"
+"Masters degree in areas related to Applied Mathematics, Machine Learning, Statistics, Operations Research","{'DEGREE': ['Masters'], 'SPEC': ['Mathematics', 'Machine Learning', 'Statistics', 'Operations Research']}"
+Bachelor`s degree in Architecture or Civil Engineering is required. Advanced Degree is a plus.,"{'DEGREE': ['Bachelor'], 'SPEC': ['Architecture', 'Civil Engineering', 'plus']}"
+"Master`s degree or higher in Computer Science, AI, or a related field","{'DEGREE': ['Master', 'higher Computer Science']}"
+"Desired Skills and Background● With an experience range between 10 - 15 Years Sales in Government domain.● Proficient communication skills, both written and verbal, to effectively engage with clientsand internal stakeholders.● Ability to thrive in a fast-paced team environment, handling multiple tasks simultaneouslywith ease.● Strong logical and analytical skills to assess complex situations and devise effectivesolutions.● Sense of responsibility and ownership towards achieving organizational objectives.● Capability to interact confidently with senior management and stakeholders.● Excellent coordination and time management skills to efficiently execute sales strategiesand meet targets","{'SPEC': ['Background experience', 'Sales', 'written verbal', 'environment handling', 'tasks simultaneouslywith', 'assess complex situations', 'achieving', 'interact confidently senior management', 'coordination', 'time management', 'efficiently execute sales strategiesand', 'meet targets']}"
+"Bachelor`s degree in Information Systems, Finance, or related field","{'DEGREE': ['Bachelor'], 'SPEC': ['Information Systems', 'Finance']}"
+"Bachelor`s degree in business administration, computer science, or a related field","{'DEGREE': ['Bachelor'], 'SPEC': ['business administration', 'computer science']}"
+Bachelor's degree in Computer Science or related field,"{'DEGREE': ['Bachelor'], 'SPEC': ['Computer Science']}"
+Bachelor`s or Master`s degree in computer science or related field from a top university,"{'DEGREE': ['Bachelor', 'Master'], 'SPEC': ['computer science']}"
+Master`s degree in computer science or a related field,"{'DEGREE': ['Master'], 'SPEC': ['computer science']}"
+"Bachelor`s degree in Marketing, Communications, Design, or a related field","{'DEGREE': ['Bachelor'], 'SPEC': ['Marketing']}"
+"BA,BS degree or equivalent; MBA or technical degree a plus","{'DEGREE': ['BA', 'BS', 'technical'], 'SPEC': ['plus']}"
+"Undergraduate degree in Computer Science, Machine Learning, or Artificial Intelligence major is preferred","{'DEGREE': ['Undergraduate'], 'SPEC': ['Computer Science', 'Machine Learning', 'Artificial Intelligence']}"
+text,{'SPEC': ['text']}
+"Bachelor's degree in relevant field (e.g., Technical Communication, Computer Science, Information Technology)","{'DEGREE': ['Bachelor', 'Technical Communication'], 'SPEC': ['Computer Science', 'Information Technology']}"

@@ -1,0 +1,120 @@
+text,O/P
+text,O/P
+text,O/P
+text,{'SPEC': ['text']}
+He holds a Bachelor of Science in Computer Science.,"{'SPEC': ['holds', 'Computer Science'], 'DEGREE': ['Bachelor Science']}"
+She earned a Master of Arts in Psychology.,{'DEGREE': ['Master Arts Psychology']}
+A PhD in Biochemistry is required for this role.,"{'DEGREE': ['PhD'], 'SPEC': ['Biochemistry']}"
+The position requires a Bachelor of Science in Nursing.,"{'DEGREE': ['Bachelor'], 'SPEC': ['Science', 'Nursing']}"
+An MBA in Business Administration is preferred.,"{'DEGREE': ['MBA'], 'SPEC': ['Business Administration']}"
+Candidates with a Master of Science in Data Science are encouraged to apply.,"{'DEGREE': ['Master Science'], 'SPEC': ['Data Science', 'encouraged apply']}"
+He has a Juris Doctor from an accredited law school.,"{'DEGREE': ['Juris Doctor'], 'SPEC': ['law']}"
+She completed her Bachelor of Arts in History.,"{'DEGREE': ['Bachelor Arts'], 'SPEC': ['History']}"
+A Master of Public Health is highly desired.,"{'DEGREE': ['Master'], 'SPEC': ['Public Health']}"
+The job requires a Doctor of Medicine degree.,{'DEGREE': ['Doctor Medicine']}
+Applicants should have a Bachelor of Fine Arts in Graphic Design.,"{'DEGREE': ['Bachelor Fine Arts'], 'SPEC': ['Graphic Design']}"
+A Master of Science in Civil Engineering is essential.,"{'DEGREE': ['Master Science'], 'SPEC': ['Civil Engineering']}"
+He possesses a Doctor of Philosophy in Physics.,"{'SPEC': ['possesses', 'Philosophy', 'Physics'], 'DEGREE': ['Doctor']}"
+She has a Bachelor of Architecture.,{'DEGREE': ['Bachelor Architecture']}
+A Master of Science in Environmental Science is preferred.,"{'DEGREE': ['Master Science'], 'SPEC': ['Environmental Science']}"
+Candidates with a Bachelor of Business Administration will be considered.,{'DEGREE': ['Bachelor Business Administration']}
+He holds a Master of Arts in Sociology.,"{'DEGREE': ['Master Arts'], 'SPEC': ['Sociology']}"
+A Bachelor of Science in Mechanical Engineering is required.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Mechanical Engineering']}"
+Applicants must have a Doctor of Pharmacy.,"{'DEGREE': ['Doctor'], 'SPEC': ['Pharmacy']}"
+A Master of Fine Arts in Creative Writing is desired.,"{'DEGREE': ['Master Fine Arts'], 'SPEC': ['Creative Writing']}"
+He earned a Bachelor of Science in Agricultural Sciences.,{'DEGREE': ['Bachelor Science']}
+She completed a Master of Science in Biotechnology.,"{'DEGREE': ['Master'], 'SPEC': ['Biotechnology']}"
+A Doctor of Philosophy in Economics is preferred.,"{'DEGREE': ['Doctor'], 'SPEC': ['Philosophy', 'Economics']}"
+He has a Bachelor of Science in Electrical Engineering.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Electrical Engineering']}"
+She earned a Master of Science in Biomedical Engineering.,"{'DEGREE': ['Master Science'], 'SPEC': ['Biomedical Engineering']}"
+Candidates should have a Bachelor of Science in Mathematics.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Mathematics']}"
+A Master of Arts in International Relations is required.,{'SPEC': ['International Relations']}
+He holds a Doctor of Philosophy in Computer Engineering.,"{'SPEC': ['holds', 'Computer Engineering'], 'DEGREE': ['Doctor Philosophy']}"
+She completed her Bachelor of Science in Finance.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Finance']}"
+Applicants should have a Master of Science in Statistics.,"{'DEGREE': ['Master Science'], 'SPEC': ['Statistics']}"
+A Juris Doctor degree is essential.,{'DEGREE': ['Juris Doctor']}
+He possesses a Bachelor of Science in Information Technology.,"{'SPEC': ['possesses', 'Information Technology'], 'DEGREE': ['Bachelor Science']}"
+She earned a Master of Science in Marketing.,{'DEGREE': ['Master Science Marketing']}
+A Bachelor of Science in Chemistry is required.,"{'DEGREE': ['Bachelor'], 'SPEC': ['Science', 'Chemistry']}"
+Candidates with a Doctor of Philosophy in Psychology are encouraged to apply.,"{'DEGREE': ['Doctor'], 'SPEC': ['Philosophy', 'Psychology', 'encouraged apply']}"
+He holds a Master of Science in Structural Engineering.,"{'DEGREE': ['Master Science'], 'SPEC': ['Structural Engineering']}"
+She completed a Bachelor of Arts in Political Science.,{'SPEC': ['Political Science']}
+A Doctor of Philosophy in Molecular Biology is highly desired.,"{'DEGREE': ['Doctor'], 'SPEC': ['Philosophy', 'Molecular Biology']}"
+He has a Bachelor of Science in Software Engineering.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Software Engineering']}"
+She earned a Master of Science in Education.,{'DEGREE': ['Master Science Education']}
+A Bachelor of Science in Environmental Engineering is essential.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Environmental Engineering']}"
+Candidates should have a Master of Arts in Anthropology.,{'SPEC': ['Anthropology']}
+He holds a Bachelor of Science in Aerospace Engineering.,"{'SPEC': ['holds', 'Aerospace Engineering'], 'DEGREE': ['Bachelor Science']}"
+She completed her Master of Science in Industrial Engineering.,"{'DEGREE': ['Master'], 'SPEC': ['Science', 'Industrial Engineering']}"
+A Doctor of Medicine degree is required.,{'DEGREE': ['Doctor Medicine']}
+Applicants must have a Bachelor of Science in Biology.,{'DEGREE': ['Bachelor Science Biology']}
+He possesses a Master of Business Administration.,{'DEGREE': ['Master Business Administration']}
+She earned a Bachelor of Arts in Communications.,{'DEGREE': ['Bachelor Arts Communications']}
+A Master of Science in Nutrition is desired.,"{'DEGREE': ['Master Science'], 'SPEC': ['Nutrition']}"
+He holds a Doctor of Philosophy in Chemical Engineering.,"{'SPEC': ['holds', 'Philosophy', 'Chemical Engineering'], 'DEGREE': ['Doctor']}"
+She completed a Bachelor of Science in Physics.,{'DEGREE': ['Bachelor Science Physics']}
+A Master of Science in Ecology is preferred.,"{'DEGREE': ['Master'], 'SPEC': ['Science', 'Ecology']}"
+Candidates with a Bachelor of Science in Microbiology are encouraged to apply.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Microbiology', 'encouraged apply']}"
+He holds a Master of Science in Urban Planning.,"{'DEGREE': ['Master Science'], 'SPEC': ['Urban Planning']}"
+She earned a Bachelor of Arts in English Literature.,"{'DEGREE': ['Bachelor Arts'], 'SPEC': ['English Literature']}"
+A Doctor of Philosophy in Electrical and Computer Engineering is essential.,"{'DEGREE': ['Doctor Philosophy'], 'SPEC': ['Electrical Computer Engineering']}"
+He has a Bachelor of Science in Environmental Studies.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Environmental Studies']}"
+She completed a Master of Arts in Museum Studies.,{'SPEC': ['Museum Studies']}
+A Bachelor of Science in Genetics is required.,"{'DEGREE': ['Bachelor'], 'SPEC': ['Science', 'Genetics']}"
+Applicants should have a Master of Science in Biomedical Sciences.,"{'DEGREE': ['Master Science'], 'SPEC': ['Biomedical Sciences']}"
+A Doctor of Pharmacy degree is highly desired.,"{'DEGREE': ['Doctor'], 'SPEC': ['Pharmacy']}"
+He possesses a Bachelor of Science in Health Sciences.,"{'SPEC': ['possesses'], 'DEGREE': ['Bachelor']}"
+She earned a Master of Science in Clinical Psychology.,"{'DEGREE': ['Master Science'], 'SPEC': ['Clinical Psychology']}"
+A Bachelor of Science in Computer Information Systems is preferred.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Computer Information Systems']}"
+Candidates with a Doctor of Philosophy in Mechanical Engineering are encouraged to apply.,"{'DEGREE': ['Doctor Philosophy'], 'SPEC': ['Mechanical Engineering', 'encouraged apply']}"
+He holds a Master of Science in Cognitive Science.,"{'DEGREE': ['Master Science'], 'SPEC': ['Cognitive Science']}"
+She completed her Bachelor of Science in Economics.,"{'DEGREE': ['Bachelor'], 'SPEC': ['Science', 'Economics']}"
+A Doctor of Philosophy in Neuroscience is essential.,"{'DEGREE': ['Doctor'], 'SPEC': ['Philosophy', 'Neuroscience']}"
+He has a Bachelor of Science in Plant Sciences.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Plant Sciences']}"
+She earned a Master of Science in Applied Mathematics.,"{'DEGREE': ['Master Science'], 'SPEC': ['Applied Mathematics']}"
+A Bachelor of Science in Kinesiology is required.,"{'DEGREE': ['Bachelor'], 'SPEC': ['Science', 'Kinesiology']}"
+Applicants must have a Master of Science in Marine Biology.,"{'DEGREE': ['Master'], 'SPEC': ['Science', 'Marine Biology']}"
+He possesses a Doctor of Philosophy in Sociology.,"{'SPEC': ['possesses', 'Philosophy', 'Sociology'], 'DEGREE': ['Doctor']}"
+She earned a Bachelor of Science in Nursing Administration.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Nursing Administration']}"
+A Master of Science in Industrial-Organizational Psychology is desired.,"{'DEGREE': ['Master Science'], 'SPEC': ['Industrial', 'Organizational Psychology']}"
+He holds a Bachelor of Science in Information Systems.,"{'SPEC': ['holds', 'Information Systems'], 'DEGREE': ['Bachelor Science']}"
+She completed a Master of Science in Pharmacology.,"{'DEGREE': ['Master'], 'SPEC': ['Science', 'Pharmacology']}"
+A Doctor of Philosophy in Biophysics is highly desired.,"{'DEGREE': ['Doctor'], 'SPEC': ['Philosophy']}"
+He has a Bachelor of Science in Environmental Health.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Environmental Health']}"
+She earned a Master of Science in Immunology.,"{'DEGREE': ['Master Science'], 'SPEC': ['Immunology']}"
+A Bachelor of Science in Public Health is essential.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Public Health']}"
+Candidates with a Master of Science in Cybersecurity are encouraged to apply.,"{'DEGREE': ['Master Science'], 'SPEC': ['Cybersecurity', 'encouraged apply']}"
+He holds a Bachelor of Science in Environmental Policy.,"{'SPEC': ['holds', 'Environmental Policy'], 'DEGREE': ['Bachelor Science']}"
+She completed her Master of Science in Molecular Genetics.,"{'DEGREE': ['Master Science'], 'SPEC': ['Molecular Genetics']}"
+A Doctor of Medicine degree is required.,{'DEGREE': ['Doctor Medicine']}
+Applicants should have a Bachelor of Science in Food Science.,{'DEGREE': ['Bachelor Science Food Science']}
+A Master of Science in Marine Ecology is preferred.,"{'DEGREE': ['Master'], 'SPEC': ['Science', 'Marine', 'Ecology']}"
+He possesses a Bachelor of Science in Conservation Biology.,"{'SPEC': ['possesses', 'Conservation Biology'], 'DEGREE': ['Bachelor Science']}"
+She earned a Master of Science in Bioinformatics.,"{'DEGREE': ['Master Science'], 'SPEC': ['Bioinformatics']}"
+A Doctor of Philosophy in Social Work is highly desired.,"{'DEGREE': ['Doctor Philosophy'], 'SPEC': ['Social Work']}"
+He holds a Bachelor of Science in Physics with a minor in Computer Science.,"{'SPEC': ['holds', 'Physics', 'Computer Science'], 'DEGREE': ['Bachelor Science', 'minor']}"
+She completed a Master of Science in Agronomy.,{'DEGREE': ['Master Science Agronomy']}
+A Bachelor of Science in Earth Sciences is required.,{'DEGREE': ['Bachelor Science']}
+Candidates should have a Master of Science in Horticulture.,"{'DEGREE': ['Master Science'], 'SPEC': ['Horticulture']}"
+He has a Doctor of Philosophy in Environmental Chemistry.,"{'DEGREE': ['Doctor Philosophy'], 'SPEC': ['Environmental Chemistry']}"
+She earned a Bachelor of Science in Medical Technology.,"{'DEGREE': ['Bachelor Science'], 'SPEC': ['Medical Technology']}"
+Minimum requirements:- 5+ years of software engineering experience,{'DEGREE': ['Minimum']}
+NIL,{}
+N/A,{}
+BS,{}
+Strong technical background with a degree in CS,{'SPEC': ['CS']}
+Minimum 3 years of experience in a relevant role within the production environment.,{'DEGREE': ['Minimum']}
+Bachelor's degree required.,{'DEGREE': ['Bachelor']}
+Ph.D. in applied math,{}
+Bachelorâ€™s degree and at least 5 years of Oncology experience OR associate degree and 7 years of Oncology experience.,"{'DEGREE': ['Bachelor', 'associate'], 'SPEC': ['least']}"
+Bachelor's degree in Statistics,"{'DEGREE': ['Bachelor'], 'SPEC': ['Statistics']}"
+CA Inter ,"{'DEGREE': ['CA', 'Inter']}"
+BS or BA degree in Medical Technology,"{'DEGREE': ['BS', 'BA'], 'SPEC': ['Medical Technology']}"
+MD,{}
+1st Class Masterâ€™s Degree M.Eng,"{'SPEC': ['st'], 'DEGREE': ['Master']}"
+Kriger Research Group International Diploma in Clinical Research & Regulatory Affairs,"{'SPEC': ['Kriger Research', 'Clinical Research', 'Regulatory Affairs'], 'DEGREE': ['Diploma']}"
+Bharathiar University Masters in Computer Applications (MCA),{'DEGREE': ['Masters Computer Applications MCA']}
+EIC,{}
+MBA,{}
+MBA,{}
+5+ annÃ©es d'expÃ©rience avÃ©rÃ©e dans l'industrie; diplÃ´me de bachelier en TI ou domaines connexes.,"{'DEGREE': ['ann', 'es', 'exp', 'domaines connexes']}"
