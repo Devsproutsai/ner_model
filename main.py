@@ -88,6 +88,6 @@ async def root():
     return RedirectResponse(url="/docs")
 @app.post("/extract_entities")
 async def extract_entities(input: RawStringInput):
-    model_directory = "models/version1/model-best/"  # Update this with the actual path to your model
+    model_directory = "./models/version1/model-best/"  # Update this with the actual path to your model
     result = extract_degree_and_specialisation(model_directory, input.raw_string)
     return result
