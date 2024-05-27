@@ -56,7 +56,9 @@ def preprocess(text, key):
 class RawStringInput(BaseModel):
     raw_string: str
     
-app = FastAPI()
+app = FastAPI(title="NER Model trained on education data", description="A simple API that extracts degree and specialisation entities from a raw string.", version="0.0.1")
+
+
 def extract_degree_and_specialisation(model_dir, raw_string):
     """
     Load a custom spaCy NER model from a directory and extract degree and specialisation entities from a raw string.
