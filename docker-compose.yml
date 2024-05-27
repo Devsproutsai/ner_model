@@ -1,0 +1,36 @@
+version: '3.8'
+
+services:
+  match-engine:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8002:8000"
+    restart: always
+    # env_file:
+    #   - .env
+    deploy:
+      replicas: 1
+      resources:
+        limits:
+          cpus: "0.7"
+          memory: 1024M
+        reservations:
+          cpus: "0.3"
+          memory: 256M
+      placement:
+        constraints:
+          - node.role == worker
+      update_config:
+        parallelism: 1
+        delay: 10s
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/docs"]
+      interval: 120s
+      timeout: 30s
+      retries: 3
+    volumes:
+      - ner:/code
+volumes:
+  ner:

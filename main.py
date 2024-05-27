@@ -1,11 +1,9 @@
-import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import re
 from html import unescape
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
-from nltk.stem import WordNetLemmatizer
 import spacy
 from pydantic import BaseModel
 from fastapi import FastAPI
