@@ -54,6 +54,7 @@ def preprocess(text, key):
 #creating class for payload
 
 class RawStringInput(BaseModel):
+    """Request body for the extract_entities endpoint."""
     raw_string: str
     
 app = FastAPI(title="NER Model trained on education data", description="A simple API that extracts degree and specialisation entities from a raw string.", version="0.0.1")
@@ -87,9 +88,11 @@ def extract_degree_and_specialisation(model_dir, raw_string):
     return result
 @app.get("/")
 async def root():
+    """Redirect to the API documentation page."""
     return RedirectResponse(url="/docs")
 @app.post("/extract_entities")
-async def extract_entities(input: RawStringInput):
+async def extract_entities(input_: RawStringInput):
+    """extract entities from the raw string"""
     model_directory = "./models/version1/model-best/"  # Update this with the actual path to your model
-    result = extract_degree_and_specialisation(model_directory, input.raw_string)
+    result = extract_degree_and_specialisation(model_directory, input_.raw_string)
     return result
