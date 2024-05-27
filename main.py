@@ -77,10 +77,10 @@ def extract_degree_and_specialisation(model_dir, raw_string):
     
     # Extract entities
     for ent in doc.ents:
-        if ent.label_ == 'DEGREE':
-            result['degree'] = ent.text
-        elif ent.label_ == 'SPECIALISATION':
-            result['specialisation'] = ent.text
+        if ent.label_=="DEGREE":
+            result.setdefault("DEGREE",[]).append(ent.text)
+        if ent.label_=="SPEC":
+            result.setdefault("SPEC",[]).append(ent.text)
     
     return result
 @app.get("/")
