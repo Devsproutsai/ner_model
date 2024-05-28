@@ -90,9 +90,22 @@ def extract_degree_and_specialisation(model_dir, raw_string):
 async def root():
     """Redirect to the API documentation page."""
     return RedirectResponse(url="/docs")
+
 @app.post("/extract_entities")
 async def extract_entities(input_: RawStringInput):
-    """extract entities from the raw string"""
+    """Extract entities from the raw string."""
     model_directory = "./models/version1/model-best/"  # Update this with the actual path to your model
-    result = extract_degree_and_specialisation(model_directory, input_.raw_string)
-    return result
+    try:
+        result = extract_degree_and_specialisation(model_directory, input_.raw_string)
+        return result
+    except Exception as e:
+        # Log the exception details for debugging
+        print(f"An error occurred: {str(e)}")
+        # Return a user-friendly error message
+        raise HTTPException(status_code=500, detail="Internal Server Error")
+# @app.post("/extract_entities")
+# async def extract_entities(input_: RawStringInput):
+#     """extract entities from the raw string"""
+#     model_directory = "./models/version1/model-best/"  # Update this with the actual path to your model
+#     result = extract_degree_and_specialisation(model_directory, input_.raw_string)
+#     return result
