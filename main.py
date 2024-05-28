@@ -6,7 +6,7 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 import spacy
 from pydantic import BaseModel
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 from fastapi.responses import RedirectResponse
 
 
@@ -86,6 +86,7 @@ def extract_degree_and_specialisation(model_dir, raw_string):
             result.setdefault("SPEC",[]).append(ent.text)
     
     return result
+
 @app.get("/")
 async def root():
     """Redirect to the API documentation page."""
@@ -103,6 +104,7 @@ async def extract_entities(input_: RawStringInput):
         print(f"An error occurred: {str(e)}")
         # Return a user-friendly error message
         raise HTTPException(status_code=500, detail="Internal Server Error")
+    
 # @app.post("/extract_entities")
 # async def extract_entities(input_: RawStringInput):
 #     """extract entities from the raw string"""
